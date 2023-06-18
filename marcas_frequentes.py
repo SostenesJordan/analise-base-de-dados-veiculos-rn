@@ -6,7 +6,7 @@ collection_db_01 = db_01["detran_rn"]
 collection_db_02 = db_02["detran_rn"]
 
 batch_size = 1000
-total_registros_01 = collection_db_02.count_documents({})
+total_registros_01 = collection_db_01.count_documents({})
 total_registros_02 = collection_db_02.count_documents({})
 
 total_registros = total_registros_01+total_registros_02
