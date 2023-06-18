@@ -17,7 +17,7 @@ veiculos_por_marca = []
 
 propietarios_por_documento = []
 
-while registros_recuperados < 2000:
+while registros_recuperados < total_registros:
     cursor = collection_db_02.find().skip(registros_recuperados).limit(batch_size)
 
     cursor_2 = collection_db_01.find().skip(registros_recuperados).limit(batch_size)
