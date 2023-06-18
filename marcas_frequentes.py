@@ -66,6 +66,8 @@ while registros_recuperados < 2000:
 
     registros_recuperados += batch_size
 
+    print(f"TOTAL:{total_registros} | RODOU:{registros_recuperados}")
+
 marcas = [registro['_id'] for registro in veiculos_por_marca]
 contagem_veiculos = [registro['count'] for registro in veiculos_por_marca]
 
