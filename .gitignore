@@ -1,0 +1,5 @@
+/ENV
+.env
+.vscode
+__pycache__/
+functions.py

@@ -1,0 +1,9 @@
+from pymongo import MongoClient
+import ssl
+from functions import descriptografar
+
+Mongo_detran_01 = MongoClient(descriptografar('gAAAAABkje0jP39SXX8Kh_Wtx2wo-rC31X_FKX_T5KcJP5kHh4GJ7SeTNudjxIgmJiybABVOlwj_6FSCelGPEpTefGFlxlU0O_uvH8pI8g1m6qVd6b9RVZ9nAbxjLv675xbt5tOlzrdcc0Gi3wzraPcnPGqKiOShJrbXayYJjjjJ8TfTkx9ShjY6jW7mCRaIaGe9_fMmn7ufR-dnnGuMw2WMcJvRzrq-aA=='),ssl_cert_reqs=ssl.CERT_NONE)
+Mongo_detran_02 = MongoClient(descriptografar('gAAAAABkje1bu8OjwFq_UE-Sujv9ITeTM_-x7gti7cugAV-gQjguqeDzSctPvfzB3au91AqAp6sLH2b2dHcBJh6b3Jx0y6ixvENSIymFi2pbJPEjI1tYF0f9vug_XjFVzWs2r6gIGpN6gW7zP5mOlyS340UmR8QFbxcbEAYOCfVwXXP2TVi_CXjdNUWm4RmsbKpXmOYQu7t-AqgCOoPMT6XJwfzVx_KT2w=='),ssl_cert_reqs=ssl.CERT_NONE)
+
+db_01 = Mongo_detran_01["configdb"]
+db_02 = Mongo_detran_02["configdb"]

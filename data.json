@@ -1,0 +1,4627 @@
+[
+    {
+     "Cod.": 5002,
+     "Descrição": "após prazo previsto no paragrafo anterior. não havendo a identificação do infrator e sendo o veiculo de propriedade de pessoa juridica. será lavrada nova multa ao proprietário do veiculo, mantida a originada pela infração",
+     "Artigo": 111,
+     "Infrator": "Jurídica",
+     "Agravante": "LEVE",
+     "Pontos": 3,
+     "Valor\n(R$)": 88.38
+    },
+    {
+     "Cod.": 5010,
+     "Descrição": "DIRIGIR SEM POSSUIR CNH\/PPD\/ACCOU PERMISSAO PARA DIRIGIR",
+     "Artigo": "162 I",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 880.41
+    },
+    {
+     "Cod.": 5029,
+     "Descrição": "DIRIGIR VEICULO COM CARTEIRA NACIONAL DE HABILITAÇÃO OU PERMISSÃO PARA DIRIGIR CASSADA OU COM SUSPENSÃO DO DIREITO DE DIRIGIR.",
+     "Artigo": "162 II",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 1467.35
+    },
+    {
+     "Cod.": 5029,
+     "Descrição": "DIRIGIR VEÍCULO COM CNH\/PPD\/ACC CASSADA",
+     "Artigo": "162 II",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 880.41
+    },
+    {
+     "Cod.": 5029,
+     "Descrição": "DIRIGIR VEICULO COM PERMISSÃO PARA DIRIGIR CASSADA",
+     "Artigo": "162 II",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 1467.35
+    },
+    {
+     "Cod.": 5029,
+     "Descrição": "DIRIGIR VEÍCULO COM CNH OU PPD COM SUSPENSÃO DO DIREITO DE DIRIGIR",
+     "Artigo": "162 II",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 1467.35
+    },
+    {
+     "Cod.": 5037,
+     "Descrição": "DIRIGIR VEÍCULO COM CNH DE CATEGORIA DIFERENTE DA DO VEÍCULO",
+     "Artigo": "162 III",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 586.94
+    },
+    {
+     "Cod.": 5037,
+     "Descrição": "DIRIGIR VEÍCULO COM PPD DE CATEGORIA DIFERENTE DA DO VEÍCULO",
+     "Artigo": "162 III",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 586.94
+    },
+    {
+     "Cod.": 5037,
+     "Descrição": "DIRIGIR VEICULO COM CARTEIRA NACIONAL DE HABILITAÇÃO OU PERMISSÃO PARA DIRIGIR DE CATEGORIA DIFERENTE DA DO VEICULO QUE ESTEJA CONDUZINDO.",
+     "Artigo": "162 III",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 880.41
+    },
+    {
+     "Cod.": 5045,
+     "Descrição": "DIRIGIR VEICULO COM VALIDADE DA CARTEIRA NACIONAL DE HABILITAÇÃO VENCIDA HÁ MAIS DE TRINTA DIAS",
+     "Artigo": "162 V",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 5053,
+     "Descrição": "DIRIGIR VEICULO SEM USAR LENTES CORRETORAS DE VISÃO, APARELHO AUXILIAR DE AUDIÇÃO, DE PRÓTESE FÍSICA OU AS ADAPTAÇÕES DO VEICULO IMPOSTAS POR OCASIÃO DA CONCESSÃO OU RENOVAÇÃO DA LICENÇA PARA CONDUZIR.",
+     "Artigo": "162 VI",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 5053,
+     "Descrição": "DIRIGIR VEÍCULO SEM USAR LENTES CORRETORAS DE VISÃO",
+     "Artigo": "162 VI",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 5053,
+     "Descrição": "DIRIGIR VEÍCULO SEM USAR APARELHO AUXILIAR DE AUDIÇÃO",
+     "Artigo": "162 VI",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 5053,
+     "Descrição": "DIRIGIR VEÍCULO SEM USAR APARELHO AUXILIAR DE PRÓTESE FÍSICA",
+     "Artigo": "162 VI",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 5053,
+     "Descrição": "DIRIGIR VEÍCULO S\/ ADAPTAÇÕES IMPOSTAS NA CONCESSÃO\/RENOVAÇÃO LICENÇA CONDUZIR",
+     "Artigo": "162 VI",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 5061,
+     "Descrição": "ENTREGAR VEICULO A PESSOA SEM CNH\/PPD\/ACC.",
+     "Artigo": 163,
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 880.41
+    },
+    {
+     "Cod.": 5070,
+     "Descrição": "ENTREGAR A DIREÇÃO DO VEICULO A PESSOA COM CARTEIRA NACIONAL DE HABILITAÇÃO OU PERMISSÃO PARA DIRIGIR CASSADA OU COM SUSPENSÃO DO DIREITO DE DIRIGIR.",
+     "Artigo": 163,
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 1467.35
+    },
+    {
+     "Cod.": 5070,
+     "Descrição": "ENTREGAR VEÍCULO A PESSOA COM CNH\/PPD\/ACC CASSADA",
+     "Artigo": 163,
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 880.41
+    },
+    {
+     "Cod.": 5070,
+     "Descrição": "ENTREGAR VEÍCULO A PESSOA COM CNH\/PPD\/ACC COM SUSPENSÃO DO DIREITO DIRIGIR",
+     "Artigo": "163 e 162 II",
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 880.41
+    },
+    {
+     "Cod.": 5070,
+     "Descrição": "ENTREGAR VEÍCULO A PESSOA COM CNH OU PPD COM SUSPENSÃO DO DIREITO DE DIRIGIR",
+     "Artigo": 163,
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 1467.35
+    },
+    {
+     "Cod.": 5088,
+     "Descrição": "ENTREGAR VEÍCULO A PESSOA COM CNH DE CATEGORIA DIFERENTE DA DO VEÍCULO",
+     "Artigo": 163,
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 586.94
+    },
+    {
+     "Cod.": 5088,
+     "Descrição": "ENTREGAR VEÍCULO A PESSOA COM PPD DE CATEGORIA DIFERENTE DA DO VEÍCULO",
+     "Artigo": 163,
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 880.41
+    },
+    {
+     "Cod.": 5088,
+     "Descrição": "ENTREGAR A DIREÇÃO DO VEICULO A PESSOA COM CARTEIRA NACIONAL DE HABILITAÇÃO OU PERMISSÃO PARA DIRIGIR DE CATEGORIA DIFERENTE DA DO VEICULO QUE ESTEJA CONDUZINDO.",
+     "Artigo": 163,
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 880.41
+    },
+    {
+     "Cod.": 5096,
+     "Descrição": "ENTREGAR A DIREÇÃO DO VEICULO A PESSOA COM VALIDADE DA CARTEIRA NACIONAL DE HABILITAÇÃO VENCIDA HÁ MAIS DE TRINTA DIAS.",
+     "Artigo": 163,
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 5100,
+     "Descrição": "ENTREGAR A DIREÇÃO DO VEICULO A PESSOA SEM USAR LENTES CORRETORAS DE VISÃO, APARELHO AUXILIAR DE AUDIÇÃO. DE PRÓTESE FÍSICA OU AS ADAPTAÇÕES DO VEICULO IMPOSTAS POR OCASIÃO DA CONCESSÃO OU RENOVAÇÃO DA LICENÇA PARA CONDUZIR.",
+     "Artigo": 163,
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 5100,
+     "Descrição": "ENTREGAR O VEÍCULO A PESSOA SEM USAR LENTES CORRETORAS DE VISÃO",
+     "Artigo": 163,
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 5100,
+     "Descrição": "ENTREGAR O VEÍCULO A PESSOA SEM USAR APARELHO AUXILIAR DE AUDIÇÃO",
+     "Artigo": 163,
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 5100,
+     "Descrição": "ENTREGAR O VEÍCULO A PESSOA SEM APARELHO DE PRÓTESE FÍSICA",
+     "Artigo": 163,
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 5100,
+     "Descrição": "ENTREGAR VEÍC PESSOA S\/ ADAPTAÇÕES IMPOSTAS CONCESSÃO\/RENOVAÇÃO LICENÇA CONDUZIR",
+     "Artigo": 163,
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 5118,
+     "Descrição": "PERMITIR POSSE\/CONDUÇÃO DO VEICULO A PESSOA SEM CNH\/PPD\/ACC",
+     "Artigo": "164,162 II",
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 880.41
+    },
+    {
+     "Cod.": 5126,
+     "Descrição": "PERMITIR QUE TOME POSSE DO VEICULO AUTOMOTOR E PASSE A CONDUZI-LO NA VIA A PESSOA COM CARTEIRA NACIONAL DE HABILITAÇÃO OU PERMISSÃO PARA DIRIGIR CASSADA OU COM SUSPENSÃO DO DIREITO DE DIRIGIR",
+     "Artigo": 164,
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 1467.35
+    },
+    {
+     "Cod.": 5126,
+     "Descrição": "PERMITIR POSSE\/CONDUÇÃO DO VEÍCULO A PESSOA COM CNH\/PPD\/ACC CASSADA",
+     "Artigo": 164,
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 880.41
+    },
+    {
+     "Cod.": 5126,
+     "Descrição": "PERMITIR POSSE\/CONDUÇÃO VEIC. PESSOA COM CNH\/PPD\/ACC C\/ SUSPENSÃO DIREITO DIRIGIR",
+     "Artigo": 164,
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 880.41
+    },
+    {
+     "Cod.": 5126,
+     "Descrição": "PERMITIR POSSE\/CONDUÇÃO VEÍC PESSOA COM CNH\/PPD C\/ SUSPENSÃO DIREITO DE DIRIGIR",
+     "Artigo": 164,
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 1467.35
+    },
+    {
+     "Cod.": 5134,
+     "Descrição": "PERMITIR POSSE\/CONDUÇÃO VEÍC A PESSOA COM CNH CATEGORIA DIFERENTE DA DO VEÍCULO",
+     "Artigo": 164,
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 586.94
+    },
+    {
+     "Cod.": 5134,
+     "Descrição": "PERMITIR POSSE\/CONDUÇÃO VEÍC A PESSOA COM PPD CATEGORIA DIFERENTE DA DO VEÍCULO",
+     "Artigo": 164,
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 586.94
+    },
+    {
+     "Cod.": 5142,
+     "Descrição": "PERMITIR QUE TOME POSSE DO VEICULO AUTOMOTOR E PASSE A CONDUZI-LO NA VIA A PESSOA COM VALIDADE DA CARTEIRA NACIONAL DE HABILITAÇÃO VENCIDA HÁ MAIS DE TRINTA DIAS.",
+     "Artigo": 164,
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 5150,
+     "Descrição": "PERMITIR QUE TOME POSSE DO VEICULO AUTOMOTOR E PASSE A CONDUZI-LO NA VIA A PESSOA SEM USAR LENTES CORRETORAS DE VISÃO. APARELHO AUXILIAR DE AUDIÇÃO, DE PRÓTESE FÍSICA OU AS ADAPTAÇÕES DO VEICULO IMPOSTAS POR OCASIÃO DA CONCESSÃO OU RENOVAÇÃO DA LICENÇA PA",
+     "Artigo": 164,
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 5150,
+     "Descrição": "PERMITIR POSSE\/CONDUÇÃO DO VEÍCULO A PESSOA SEM USAR LENTES CORRETORAS DE VISÃO",
+     "Artigo": 164,
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 5150,
+     "Descrição": "PERMITIR POSSE\/CONDUÇÃO DO VEÍCULO A PESSOA S\/ USAR APARELHO AUXILIAR DE AUDIÇÃO",
+     "Artigo": 164,
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 5150,
+     "Descrição": "PERMITIR POSSE\/CONDUÇÃO DO VEÍCULO A PESSOA SEM USAR APARELHO DE PRÓTESE FÍSICA",
+     "Artigo": 164,
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 5150,
+     "Descrição": "PERMITIR POSSE\/COND VEÍC S\/ ADAPTAÇÕES IMPOSTAS CONCESSÃO\/RENOVAÇÃO LICENÇA COND",
+     "Artigo": 164,
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 5169,
+     "Descrição": "DIRIGIR SOB A INFLUÊNCIA DE ÁLCOOL",
+     "Artigo": 165,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 2934.7
+    },
+    {
+     "Cod.": 5169,
+     "Descrição": "DIRIGIR SOB INFLUÊNCIA SUBST ENTORPECENTE OU Q DETERMINE DEPEND FÍSICA\/PSÍQUICA",
+     "Artigo": 165,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 2934.7
+    },
+    {
+     "Cod.": 5177,
+     "Descrição": "CONFIAR OU ENTREGAR A DIREÇÃO DE VEICULO A PESSOA QUE, MESMO HABILITADA, POR SEU ESTADO FÍSICO OU PSÍQUICO, NÃO ESTIVER EM CONDIÇÕES DE DIRIGI-LO COM SEGURANÇA.",
+     "Artigo": 166,
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 5185,
+     "Descrição": "DEIXAR O CONDUTOR DE USAR O CINTO SEGURANÇA",
+     "Artigo": 167,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 5185,
+     "Descrição": "DEIXAR O PASSAGEIRO DE USAR O CINTO SEGURANÇA",
+     "Artigo": 167,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 5193,
+     "Descrição": "TRANSPORTAR CRIANÇAS EM VEICULO AUTOMOTOR SEM OBSERVÂNCIA DAS NORMAS DE SEGURANÇA ESPECIAIS ESTABELECIDAS NO CÓDIGO BRASILEIRO DE TRÂNSITO.",
+     "Artigo": 168,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 5207,
+     "Descrição": "DIRIGIR SEM ATENÇÃO OU SEM OS CUIDADOS INDISPENSÁVEIS À SEGURANÇA.",
+     "Artigo": 169,
+     "Infrator": "Condutor",
+     "Agravante": "LEVE",
+     "Pontos": 3,
+     "Valor\n(R$)": 88.38
+    },
+    {
+     "Cod.": 5215,
+     "Descrição": "DIRIGIR AMEAÇANDO OS PEDESTRES QUE ESTEJAM ATRAVESSANDO A VIA PÚBLICA",
+     "Artigo": 170,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 5215,
+     "Descrição": "DIRIGIR AMEAÇANDO OS DEMAIS VEÍCULOS",
+     "Artigo": 170,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 5223,
+     "Descrição": "USAR VEÍCULO PARA ARREMESSAR SOBRE OS PEDESTRES ÁGUA OU DETRITOS",
+     "Artigo": 171,
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 5223,
+     "Descrição": "USAR VEÍCULO PARA ARREMESSAR SOBRE OS VEÍCULOS ÁGUA OU DETRITOS",
+     "Artigo": 171,
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 5223,
+     "Descrição": "USAR O VEICULO PARA ARREMESSAR ÁGUA OU DETRITOS SOBRE OS PEDESTRES OU VEÍCULO.",
+     "Artigo": 171,
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 5231,
+     "Descrição": "ATIRAR DO VEICULO OU ABANDONAR NA VIA PÚBLICA OBJETO OU SUBSTÂNCIA.",
+     "Artigo": 172,
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 5231,
+     "Descrição": "ATIRAR DO VEÍCULO OBJETOS OU SUBSTÂNCIAS",
+     "Artigo": 172,
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 5231,
+     "Descrição": "ABANDONAR NA VIA OBJETOS OU SUBSTÂNCIAS",
+     "Artigo": 172,
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 5240,
+     "Descrição": "DISPUTAR CORRIDA POR ESPIRITO DE EMULAÇÃO",
+     "Artigo": 173,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 2934.7
+    },
+    {
+     "Cod.": 5258,
+     "Descrição": "PROMOVER NA VIA, COMPETIÇÃO ESPORTIVA, EVENTOS ORGANIZADOS, EXIBIÇÃO E DEMONSTRAÇÃO DE PERÍCIA EM MANOBRA DE VEICULO, SEM PERMISSÃO DE AUTORIDADE DE TRÂNSITO COM CIRCUNSCRIÇÃO SOBRE A VIA.",
+     "Artigo": 174,
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 2934.7
+    },
+    {
+     "Cod.": 5258,
+     "Descrição": "PROMOVER NA VIA COMPETIÇÃO ESPORTIVA SEM PERMISSÃO",
+     "Artigo": 174,
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 2934.7
+    },
+    {
+     "Cod.": 5258,
+     "Descrição": "PROMOVER NA VIA EVENTOS ORGANIZADOS SEM PERMISSÃO",
+     "Artigo": 174,
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 2934.7
+    },
+    {
+     "Cod.": 5258,
+     "Descrição": "PROMOVER NA VIA EXIBIÇÃO E DEMONSTRAÇÃO DE PERÍCIA EM MANOBRA DE VEÍCULO",
+     "Artigo": 174,
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 2934.7
+    },
+    {
+     "Cod.": 5266,
+     "Descrição": "PARTICIPAR NA VIA COMO CONDUTOR EM COMPETIÇÃO ESPORTIVA, SEM PERMISSÃO",
+     "Artigo": 174,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 1467.35
+    },
+    {
+     "Cod.": 5266,
+     "Descrição": "PARTICIPAR NA VIA COMO CONDUTOR EM EVENTO ORGANIZADO, SEM PERMISSÃO",
+     "Artigo": 174,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 1467.35
+    },
+    {
+     "Cod.": 5266,
+     "Descrição": "PARTICIPAR COMO CONDUTOR EXIB\/DEMONST PERÍCIA EM MANOBRA DE VEIC, S\/ PERMISSÃO",
+     "Artigo": 174,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 1467.35
+    },
+    {
+     "Cod.": 5266,
+     "Descrição": "PARTICIPAR NA VIA, COMO CONDUTOR, DE COMPETIÇÃO ESPORTIVA, EVENTOS ORGANIZADOS, EXIBIÇÃO E DEMONSTRAÇÃO DE PERÍCIA EM MANOBRA DE VEICULO, SEM PERMISSÃO DA AUTORIDADE DE TRÂNSITO COM CIRCUNSCRIÇÃO SOBRE A VIA.",
+     "Artigo": 174,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 1467.35
+    },
+    {
+     "Cod.": 5274,
+     "Descrição": "UTILIZAR-SE DE VEÍCULO PARA DEMONSTRAR OU EXIBIR MANOBRA PERIGOSA",
+     "Artigo": 175,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 2934.7
+    },
+    {
+     "Cod.": 5274,
+     "Descrição": "UTILIZAR-SE DE VEÍCULO PARA DEMONSTRAR OU EXIBIR ARRANCADA BRUSCA",
+     "Artigo": 175,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 2934.7
+    },
+    {
+     "Cod.": 5274,
+     "Descrição": "UTILIZAR-SE DE VEÍCULO PARA DEMONSTRAR OU EXIBIR DERRAPAGEM OU FRENAGEM",
+     "Artigo": 175,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 2934.7
+    },
+    {
+     "Cod.": 5282,
+     "Descrição": "DEIXAR O CONDUTOR ENVOLVIDO EM ACIDENTE COM VITIMA DE PRESTAR OU PROVIDENCIAR SOCORRO À VITIMA, PODENDO FAZE-LO.",
+     "Artigo": "176 I",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 1467.35
+    },
+    {
+     "Cod.": 5290,
+     "Descrição": "DEIXAR O CONDUTOR ENVOLVIDO EM ACIDENTE COM VITIMA DE ADOTAR PROVIDÊNCIAS, PODENDO FAZE-LO, NO SENTIDO DE EVITAR PERIGO PARA O TRÂNSITO NO LOCAL.",
+     "Artigo": "176 II",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 1467.35
+    },
+    {
+     "Cod.": 5304,
+     "Descrição": "DEIXAR O CONDUTOR EM ACIDENTE COM VÍTIMA DE PRESERVAR O LOCAL, DE FORMA A FACILITAR OS TRABALHOS DA POLICIA E DA PERÍCIA.",
+     "Artigo": "176 III",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 1467.35
+    },
+    {
+     "Cod.": 5312,
+     "Descrição": "DEIXAR O CONDUTOR ENVOLVIDO EM ACIDENTE COM VÍTIMA DE ADOTAR PROVIDÊNCIAS PARA REMOVER O VEICULO DO LOCAL, QUANDO DETERMINADAS POR POLICIAL OU AGENTE DA AUTORIDADE DE TRÂNSITO.",
+     "Artigo": "176 IV",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 1467.35
+    },
+    {
+     "Cod.": 5320,
+     "Descrição": "DEIXAR O CONDUTOR ENVOLVIDO EM ACIDENTE COM VÍTIMA DE IDENTIFICAR-SE AO POLICIAL E DE LHE PRESTAR INFORMAÇÕES NECESSÁRIAS À CONFECÇÃO DO BOLETIM DE OCORRÊNCIA.",
+     "Artigo": "176 V",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 1467.35
+    },
+    {
+     "Cod.": 5339,
+     "Descrição": "DEIXAR O CONDUTOR DE PRESTAR SOCORRO À VÍTIMA DE ACIDENTE DE TRÂNSITO QUANDO SOLICITADO PELA AUTORIDADE E SEUS AGENTES.",
+     "Artigo": 177,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 5347,
+     "Descrição": "DEIXAR O CONDUTOR ENVOLVIDO EM ACIDENTE SEM VÍTIMA, DE ADOTAR PROVIDÊNCIAS PARA REMOVER O VEICULO DO LOCAL, QUANDO NECESSÁRIA TAL MEDIDA PARA ASSEGURAR A SEGURANÇA E A FLUIDEZ DO TRÂNSITO.",
+     "Artigo": 178,
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 5355,
+     "Descrição": "FAZER OU DEIXAR QUE SE FAÇA REPARO EM VEICULO NA VIA PÚBLICA, SALVO NOS CASOS DE IMPEDIMENTO ABSOLUTO DE SUA REMOÇÃO E EM QUE O VEICULO ESTEJA DEVIDAMENTE SINALIZADO EM PISTA DE ROLAMENTO DE RODOVIAS E VIAS DE TRÂNSITO RÁPIDO.",
+     "Artigo": "179 I",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 5363,
+     "Descrição": "FAZER OU DEIXAR QUE SE FAÇA REPARO EM VEICULO NA VIA PÚBLICA, SALVO NOS CASOS DE IMPEDIMENTO ABSOLUTO DE SUA REMOÇÃO E EM QUE O VEICULO ESTEJA DEVIDAMENTE SINALIZADO, EM OUTRAS VIAS ALÉM DE PISTA DE ROLAMENTO DE RODOVIAS E VIAS DE TRÂNSITO RÁPIDO.",
+     "Artigo": "179 II",
+     "Infrator": "Condutor",
+     "Agravante": "LEVE",
+     "Pontos": 3,
+     "Valor\n(R$)": 88.38
+    },
+    {
+     "Cod.": 5371,
+     "Descrição": "TER SEU VEICULO IMOBILIZADO NA VIA POR FALTA DE COMBUSTÍVEL.",
+     "Artigo": 180,
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 5380,
+     "Descrição": "ESTACIONAR O VEICULO NAS ESQUINAS E A MENOS DE CINCO METROS DO BORDO DO ALINHAMENTO DA VIA TRANSVERSAL.",
+     "Artigo": "181 I",
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 5398,
+     "Descrição": "ESTACIONAR O VEICULO AFASTADO DA GUIA DA CALÇADA ( MEIO-FIO ) DE CINQÜENTA CENTÍMETROS A UM METRO.",
+     "Artigo": "181 II",
+     "Infrator": "Condutor",
+     "Agravante": "LEVE",
+     "Pontos": 3,
+     "Valor\n(R$)": 88.38
+    },
+    {
+     "Cod.": 5401,
+     "Descrição": "ESTACIONAR O VEICULO AFASTADO DA GUIA DA CALÇADA ( MEIO-FIO ) A MAIS DE UM METRO.",
+     "Artigo": "181 III",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 5410,
+     "Descrição": "ESTACIONAR O VEICULO EM DESACORDO COM AS POSIÇÕES ESTABELECIDAS NO CÓDIGO DE TRÂNSITO BRASILEIRO.",
+     "Artigo": "181 IV",
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 5428,
+     "Descrição": "ESTACIONAR O VEICULO NA PISTA DE ROLAMENTO DAS ESTRADAS, DAS RODOVIAS DAS VIAS DE TRÂNSITO RÁPIDO E DAS VIAS DOTADAS DE ACOSTAMENTO.",
+     "Artigo": "181 V",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 5428,
+     "Descrição": "ESTACIONAR NA PISTA DE ROLAMENTO DAS ESTRADAS",
+     "Artigo": "181 V",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 5428,
+     "Descrição": "ESTACIONAR NA PISTA DE ROLAMENTO DAS RODOVIAS",
+     "Artigo": "181 V",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 5428,
+     "Descrição": "ESTACIONAR NA PISTA DE ROLAMENTO DAS VIAS DE TRÂNSITO RÁPIDO",
+     "Artigo": "181 V",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 5428,
+     "Descrição": "ESTACIONAR NA PISTA DE ROLAMENTO DAS VIAS DOTADAS DE ACOSTAMENTO",
+     "Artigo": "181 V",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 5436,
+     "Descrição": "ESTACIONAR O VEICULO JUNTO OU SOBRE HIDRANTES DE INCÊNDIO, REGISTRO DE ÁGUA OU TAMPAS DE POÇOS DE VISITA DE GALERIAS SUBTERRÂNEAS DESDE QUE DEVIDAMENTE IDENTIFICADOS, CONFORME ESPECIFICAÇÃO DO CONTRAN.",
+     "Artigo": "181 VI",
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 5444,
+     "Descrição": "ESTACIONAR O VEICULO NOS ACOSTAMENTOS, SALVO MOTIVO DE FORÇA MAIOR.",
+     "Artigo": "181 VII",
+     "Infrator": "Condutor",
+     "Agravante": "LEVE",
+     "Pontos": 3,
+     "Valor\n(R$)": 88.38
+    },
+    {
+     "Cod.": 5452,
+     "Descrição": "ESTACIONAR AO LADO\/SOBRE DIVISORES DE PISTA DE ROLAMENTO\/MARCAS DE CANALIZAÇÃO",
+     "Artigo": "181 VIII",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 5452,
+     "Descrição": "ESTACIONAR AO LADO OU SOBRE GRAMADO OU JARDIM PÚBLICO",
+     "Artigo": "181 VIII",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 5452,
+     "Descrição": "ESTACIONAR NO PASSEIO",
+     "Artigo": "181 VIII",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 5452,
+     "Descrição": "ESTACIONAR SOBRE FAIXA DE PEDESTRES",
+     "Artigo": "181 VIII",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 5452,
+     "Descrição": "ESTACIONAR SOBRE CICLOVIA OU CICLO FAIXA",
+     "Artigo": "181 VIII",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 5452,
+     "Descrição": "ESTACIONAR NAS ILHAS OU REFUGIO",
+     "Artigo": "181 VIII",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 5452,
+     "Descrição": "ESTACIONAR AO LADO OU SOBRE CANTEIRO CENTRAL",
+     "Artigo": "181 VIII",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 5460,
+     "Descrição": "ESTACIONAR O VEICULO ONDE HOUVER GUIA DE CALÇADA ( MEIO-FIO ) REBAIXADA DESTINADA À ENTRADA OU SAÍDA DE VEÍCULO.",
+     "Artigo": "181 IX",
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 5479,
+     "Descrição": "ESTACIONAR O VEICULO IMPEDINDO A MOVIMENTAÇÃO DE OUTRO VEICULO.",
+     "Artigo": "181 X",
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 5487,
+     "Descrição": "ESTACIONAR O VEICULO AO LADO DE OUTRO VEICULO EM FILA DUPLA.",
+     "Artigo": "181 XI",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 5495,
+     "Descrição": "ESTACIONAR O VEICULO NA ÁREA DE CRUZAMENTO DE VIAS, PREJUDICANDO A CIRCULAÇÃO DE VEÍCULO E PEDESTRES.",
+     "Artigo": "181 XII",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 5509,
+     "Descrição": "ESTACIONAR O VEICULO ONDE HOUVER SINALIZAÇÃO HORIZONTAL DELIMITADORA DE PONTO DE EMBARQUE OU DESEMBARQUE DE PASSAGEIROS DE TRASPORTE COLETIVO OU, NA INEXISTÊNCIA DESTA SINALIZAÇÃO NO INTERVALO COMPREENDIDO ENTRE DEZ METROS ANTES E DEPOIS DO MARCO DO PONTO",
+     "Artigo": "181 XIII",
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 5517,
+     "Descrição": "ESTACIONAR O VEICULO NOS VIADUTOS, PONTES E TÚNEIS.",
+     "Artigo": "181 XIV",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 5517,
+     "Descrição": "ESTACIONAR VEICULO EM VIADUTO",
+     "Artigo": "181 XIV",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 5517,
+     "Descrição": "ESTACIONAR VEICULO EM PONTE",
+     "Artigo": "181 XIV",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 5517,
+     "Descrição": "ESTACIONAR VEICULO EM TUNEL",
+     "Artigo": "181 XIV",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 5525,
+     "Descrição": "ESTACIONAR O VEICULO NA CONTRAMÃO DE DIREÇÃO.",
+     "Artigo": "181 XV",
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 5533,
+     "Descrição": "ESTACIONAR O VEICULO EM ACLIVE, OU DECLIVE. NÃO ESTADO DEVIDAMENTE FREADO E SEM CALÇO DE SEGURANÇA, QUANDO SE TRATAR DE VEICULO COM PESO BRUTO TOTAL SUPERIOR A TRÊS MIL E QUINHENTOS QUILOGRAMAS.",
+     "Artigo": "181 XVI",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 5541,
+     "Descrição": "ESTACIONAR EM DESACORDO COM A REGULAMENTAÇÃO ESPECIFICADA PELA SINALIZAÇÃO",
+     "Artigo": "181, XVII",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 5541,
+     "Descrição": "ESTACIONAR EM DESACORDO COM A REGULAMENTAÇÃO -ESTACIONAMENTO ROTATIVO",
+     "Artigo": "181, XVII",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 5541,
+     "Descrição": "ESTACIONAR EM DESACORDO COM A REGULAMENTAÇÃO -PONTO OU VAGA DE TÁXI",
+     "Artigo": "181, XVII",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 5541,
+     "Descrição": "ESTACIONAR EM DESACORDO COM A REGULAMENTAÇÃO -VAGA DE CARGA\/DESCARGA",
+     "Artigo": "181, XVII",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 5541,
+     "Descrição": "ESTACIONAR EM DESACORDO COM A REGULAMENTAÇÃO -VAGA IDOSO",
+     "Artigo": "181, XVII",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 5541,
+     "Descrição": "ESTACIONAR EM DESACORDO COM A REGULAMENTAÇÃO - VAGA DE CURTA DURAÇÃO",
+     "Artigo": "181, XVII",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 5550,
+     "Descrição": "ESTACIONAR O VEICULO EM LOCAIS E HORÁRIOS PROIBIDOS ESPECIFICAMENTE PELA SINALIZAÇÃO ( PLACA - PROIBIDO ESTACIONAR )",
+     "Artigo": "181 XVIII",
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 5568,
+     "Descrição": "ESTACIONAR O VEICULO EM LOCAIS E HORÁRIOS DE ESTACIONAMENTO E PARADA PROIBIDA PELA SINALIZAÇÃO ( PLACA - PROIBIDO - PARAR E ESTACIONAR )",
+     "Artigo": "181 XIX",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 5576,
+     "Descrição": "PARAR O VEICULO NAS ESQUINAS E A MENOS DE CINCO METROS DO BORDO DO ALINHAMENTO DA VIA TRANSVERSAL.",
+     "Artigo": "182 I",
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 5584,
+     "Descrição": "PARAR O VEICULO AFASTADO DA GUIA DA CALÇADA ( MEIO-FIO ) DE CINQÜENTA CENTÍMETROS A UM METRO.",
+     "Artigo": "182 II",
+     "Infrator": "Condutor",
+     "Agravante": "LEVE",
+     "Pontos": 3,
+     "Valor\n(R$)": 88.38
+    },
+    {
+     "Cod.": 5592,
+     "Descrição": "PARAR O VEICULO AFASTADO DA GUIA CALÇADA ( MEIO-FIO ) A MAIS DE UM METRO.",
+     "Artigo": "182 III",
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 5606,
+     "Descrição": "PARAR O VEICULO EM DESACORDO COM AS POSIÇÕES ESTABELECIDAS NO CÓDIGO DE TRÂNSITO BRASILEIRO.",
+     "Artigo": "182 IV",
+     "Infrator": "Condutor",
+     "Agravante": "LEVE",
+     "Pontos": 3,
+     "Valor\n(R$)": 88.38
+    },
+    {
+     "Cod.": 5614,
+     "Descrição": "PARAR NA PISTA DE ROLAMENTO DAS ESTRADAS",
+     "Artigo": "182 V",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 5614,
+     "Descrição": "PARAR NA PISTA DE ROLAMENTO DAS RODOVIAS",
+     "Artigo": "182 V",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 5614,
+     "Descrição": "PARAR NA PISTA DE ROLAMENTO DAS VIAS DE TRÂNSITO RÁPIDO",
+     "Artigo": "182 V",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 5614,
+     "Descrição": "PARAR NA PISTA DE ROLAMENTO DAS DEMAIS VIAS DOTADAS ACOSTAMENTO",
+     "Artigo": "182 V",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 5622,
+     "Descrição": "PARAR NOS CANTEIROS CENTRAIS",
+     "Artigo": "182 VI",
+     "Infrator": "Condutor",
+     "Agravante": "LEVE",
+     "Pontos": 3,
+     "Valor\n(R$)": 88.38
+    },
+    {
+     "Cod.": 5622,
+     "Descrição": "PARAR NOS DIVISORES DE PISTA DE ROLAMENTO E MARCAS DE CANALIZAÇÃO",
+     "Artigo": "182 VI",
+     "Infrator": "Condutor",
+     "Agravante": "LEVE",
+     "Pontos": 3,
+     "Valor\n(R$)": 88.38
+    },
+    {
+     "Cod.": 5622,
+     "Descrição": "PARAR NO PASSEIO",
+     "Artigo": "182 VI",
+     "Infrator": "Condutor",
+     "Agravante": "LEVE",
+     "Pontos": 3,
+     "Valor\n(R$)": 88.38
+    },
+    {
+     "Cod.": 5622,
+     "Descrição": "PARAR SOBRE A FAIXA DE PEDESTRE",
+     "Artigo": "182 VI",
+     "Infrator": "Condutor",
+     "Agravante": "LEVE",
+     "Pontos": 3,
+     "Valor\n(R$)": 88.38
+    },
+    {
+     "Cod.": 5622,
+     "Descrição": "PARAR EM ILHAS, CANTEIRO CENTRAL E MARCAS DE CANALIZACAO",
+     "Artigo": "182 VI",
+     "Infrator": "Condutor",
+     "Agravante": "LEVE",
+     "Pontos": 3,
+     "Valor\n(R$)": 88.38
+    },
+    {
+     "Cod.": 5630,
+     "Descrição": "PARAR O VEICULO NA ÁREA DE CRUZAMENTO DE VIAS. PREJUDICANDO A CIRCULAÇÃO DE VEÍCULO E PEDESTRES.",
+     "Artigo": "182 VII",
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 5649,
+     "Descrição": "PARAR O VEICULO NOS VIADUTOS, PONTES E TÚNEIS.",
+     "Artigo": "182 VIII",
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 5649,
+     "Descrição": "PARAR VEICULO EM VIADUTOS",
+     "Artigo": "182 VIII",
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 5649,
+     "Descrição": "PARAR VEICULO EM PONTES",
+     "Artigo": "182 VIII",
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 5649,
+     "Descrição": "PARAR VEICULO EM TUNEIS",
+     "Artigo": "182 VIII",
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 5657,
+     "Descrição": "PARAR O VEICULO NA CONTRAMÃO DE DIREÇÃO.",
+     "Artigo": "182 IX",
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 5665,
+     "Descrição": "PARAR O VEICULO EM LOCAL E HORÁRIO PROIBIDOS ESPECIFICAMENTE PELA SINALIZAÇÃO ( PLACA - PROIBIDO PARAR ).",
+     "Artigo": "182 X",
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 5673,
+     "Descrição": "PARAR VEIC SOBRE FX DE PEDESTRE MUDANCA DE SEMAFORO",
+     "Artigo": 183,
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 5673,
+     "Descrição": "PARAR VEIC SOBRE FAIXA DE PEDESTRE MUDANCA DE SINAL LUMINOSO (fISCALIZAÇÃO ELETRÔNICA0",
+     "Artigo": 183,
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 5681,
+     "Descrição": "TRANSITAR COM O VEICULO NA FAIXA OU PISTA DA DIREITA, REGULAMENTADA COMO DE CIRCULAÇÃO EXCLUSIVA PARA DETERMINADO TIPO DE VEICULO, EXCETO PARA ACESSO A IMÓVEIS LINDEIROS OU CONVERSÕES A DIREITA.",
+     "Artigo": "184 I",
+     "Infrator": "Condutor",
+     "Agravante": "LEVE",
+     "Pontos": 3,
+     "Valor\n(R$)": 88.38
+    },
+    {
+     "Cod.": 5690,
+     "Descrição": "TRANSITAR COM O VEICULO NA FAIXA OU PISTA DA ESQUERDA REGULAMENTADA COMO DE CIRCULAÇÃO EXCLUSIVA PARA DETERMINADO TIPO DE VEICULO.",
+     "Artigo": "184 II",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 5703,
+     "Descrição": "DEIXAR DE CONSERVAR O VEICULO QUANDO ESTIVER EM MOVIMENTO NA FAIXA A ELE DESTINADA PELA SINALIZAÇÃO DE REGULAMENTAÇÃO EXCETO EM SITUAÇÕES DE EMERGÊNCIA.",
+     "Artigo": "185 I",
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 5711,
+     "Descrição": "DEIXAR DE CONSERVAR O VEICULO LENTO E DE MAIOR PORTE, QUANDO ESTIVER EM MOVIMENTO, NAS FAIXAS DA DIREITA.",
+     "Artigo": "185 II",
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 5720,
+     "Descrição": "TRANSITAR PELA CONTRAMÃO DE DIREÇÃO EM VIAS COM DUPLO SENTIDO DE CIRCULAÇÃO, EXCETO PARA ULTRAPASSAR OUTRO VEICULO E APENAS PELO TEMPO NECESSÁRIO, RESPEITADA A PREFERÊNCIA DO VEICULO QUE TRANSITAR EM SENTIDO CONTRÁRIO.",
+     "Artigo": "186 I",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 5738,
+     "Descrição": "TRANSITAR PELA CONTRAMÃO DE DIREÇÃO EM VIAS COM SINALIZAÇÃO DE REGULAMENTAÇÃO DE SENTIDO ÚNICO DE CIRCULAÇÃO.",
+     "Artigo": "186 II",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 5746,
+     "Descrição": "TRANSITAR EM LOCAL\/HORÁRIO NÃO PERMITIDO PELA REGUL ESTABELECIDA PELA AUTORIDADE",
+     "Artigo": "187 I",
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 5746,
+     "Descrição": "TRANSITAR EM LOCAL\/HORÁRIO NÃO PERMITIDO PELA REGULAMENTAÇÃO -RODÍZIO",
+     "Artigo": "187 I",
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 5746,
+     "Descrição": "TRANSITAR EM LOCAL\/HORÁRIO NÃO PERMITIDO PELA REGULAMENTAÇÃO -VEÍCULO DE CARGA",
+     "Artigo": "187 I",
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 5754,
+     "Descrição": "TRANSITAR EM LOCAIS E HORÁRIOS NÃO PERMITIDOS PELA REGULAMENTAÇÃO ESTABELECIDA PELA AUTORIDADE COMPETENTE ESPECIFICAMENTE PARA CAMINHÕES E ÔNIBUS.",
+     "Artigo": "187 II",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 5762,
+     "Descrição": "TRANSITAR AO LADO DE OUTRO VEICULO, INTERROMPENDO OU PERTURBANDO O TRÂNSITO.",
+     "Artigo": 188,
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 5770,
+     "Descrição": "DEIXAR DE DAR PASSAGEM AOS VEICULO PROCEDIDOS DE BATEDORES DE SOCORRO DE INCÊNDIO E SALVAMENTO DE POLICIA DE OPERAÇÃO E FISCALIZAÇÃO DE TRÂNSITO E ÀS AMBULÂNCIAS,QUANDO EM SERVIÇO DE URGÊNCIA E DEVIDAMENTE IDENTIFICADOS POR DISPOSITIVO REGULAMENTADO DE AL",
+     "Artigo": 189,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 5770,
+     "Descrição": "NAO DAR PASSAGEM A VEICULO PRECEDIDO BATEDORES",
+     "Artigo": 189,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 5770,
+     "Descrição": "NAO DAR PASSAGEM A VEIC DE SOCORRO INCENDIO\/SALVAMENTO",
+     "Artigo": 189,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 5770,
+     "Descrição": "NAO DAR PASSAGEM A VEICULO DE POLICIA",
+     "Artigo": 189,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 5770,
+     "Descrição": "NAO DAR PASSAGEM A VEIC OPER E FISCAL DE TRANSITO",
+     "Artigo": 189,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 5770,
+     "Descrição": "NAO DAR PASSAGEM A AMBULANCIAS",
+     "Artigo": 189,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 5789,
+     "Descrição": "SEGUIR VEICULO EM SERVIÇO DE URGÊNCIA, ESTANDO ESTE COM PRIORIDADE DE PASSAGEM DEVIDAMENTE IDENTIFICADA POR DISPOSITIVOS REGULAMENTARES DE ALARME SONORO E ILUMINAÇÃO VERMELHA INTERMITENTES.",
+     "Artigo": 190,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 5797,
+     "Descrição": "FORÇAR PASSAGEM ENTRE VEICULO QUE TRANSITANDO EM SENTIDOS OPOSTOS, ESTEJAM NA IMINÊNCIA DE PASSAR UM PELO OUTRO AO REALIZAR OPERAÇÃO DE ULTRAPASSAGEM.",
+     "Artigo": 191,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 2934.7
+    },
+    {
+     "Cod.": 5800,
+     "Descrição": "DEIXAR DE GUARDAR DISTÂNCIA DE SEGURANÇA LATERAL E FRONTAL ENTRE O SEU VEICULO E OS DEMAIS, BEM COMO EM RELAÇÃO AO BORDO DA PISTA , CONSIDERANDO-SE, NO MOMENTO A VELOCIDADE AS CONDIÇÕES CLIMÁTICAS DO LOCAL DA CIRCULAÇÃO E DO VEICULO.",
+     "Artigo": 192,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 5819,
+     "Descrição": "TRANSITAR COM O VEÍCULO EM ILHAS, REFÚGIOS",
+     "Artigo": 193,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 880.41
+    },
+    {
+     "Cod.": 5819,
+     "Descrição": "TRANSITAR COM O VEÍCULO EM MARCAS DE CANALIZACAO",
+     "Artigo": 193,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 880.41
+    },
+    {
+     "Cod.": 5819,
+     "Descrição": "TRANSITAR COM O VEÍCULO EM ACOSTAMENTOS",
+     "Artigo": 193,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 880.41
+    },
+    {
+     "Cod.": 5819,
+     "Descrição": "TRANSITAR COM O VEÍCULO EM PASSARELAS",
+     "Artigo": 193,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 880.41
+    },
+    {
+     "Cod.": 5819,
+     "Descrição": "TRANSITAR EM CALCADAS, PASSEIOS E PASSARELAS",
+     "Artigo": 193,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 880.41
+    },
+    {
+     "Cod.": 5819,
+     "Descrição": "TRANSITAR EM CICLOVIAS\/CICLOFAIXAS",
+     "Artigo": 193,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 880.41
+    },
+    {
+     "Cod.": 5819,
+     "Descrição": "TRANSITAR EM AJARDINAMENTOS, GRAMADOS E JARDINS PUBLICOS",
+     "Artigo": 193,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 880.41
+    },
+    {
+     "Cod.": 5819,
+     "Descrição": "TRANSITAR EM CANTEIROS CENTRAIS\/DIVISORES DE PISTA ROLAMENTO",
+     "Artigo": 193,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 880.41
+    },
+    {
+     "Cod.": 5827,
+     "Descrição": "TRANSITAR EM MARCHA À RÉ, SALVO NA DISTÂNCIA NECESSÁRIA E PEQUENAS MANOBRAS E FORMA A NÃO CAUSAR RISCOS A SEGURANÇA.",
+     "Artigo": 194,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 5835,
+     "Descrição": "DESOBEDECER ÀS ORDENS EMANADAS DA AUTORIDADE COMPETENTE DE TRÂNSITO OU DE SEUS AGENTES.",
+     "Artigo": 195,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 5843,
+     "Descrição": "DEIXAR DE INDICAR COM ANTECEDÊNCIA, MEDIANTE GESTO REGULAMENTAR DE BRAÇO OU LUZ INDICADORA DE DIREÇÃO DE VEICULO O INICIO DA MARCHA A REALIZAÇÃO DA MANOBRA DE PARAR O VEICULO, A MUDANÇA DE DIREÇÃO OU DE FAIXA DE CIRCULAÇÃO.",
+     "Artigo": 196,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 5843,
+     "Descrição": "NAO FAZER SINAL BRACO\/LUMINOSO ANTES DE INICIAR MARCHA",
+     "Artigo": 196,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 5843,
+     "Descrição": "NAO FAZER SINAL BRACO\/LUMINOSO ANTES DE PARAR VEICULO",
+     "Artigo": 196,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 5843,
+     "Descrição": "NAO FAZER SINAL BRACO\/LUMINOSO ANTES DE MUDAR DE DIRECAO",
+     "Artigo": 196,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 5843,
+     "Descrição": "NAO FAZER SINAL BRACO\/LUMINOSO ANTES DE MUDAR DE FAIXA",
+     "Artigo": 196,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 5851,
+     "Descrição": "NAO DESLOCAR VEIC C\/ ANTECEDENCIA P\/ MANOBRAR A ESQUERDA",
+     "Artigo": 197,
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 5851,
+     "Descrição": "NAO DESLOCAR VEIC C\/ ANTECEDENCIA P\/ MANOBRAR A DIREITA",
+     "Artigo": 197,
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 5860,
+     "Descrição": "DEIXAR DE DAR PASSAGEM PELA ESQUERDA, QUANDO SOLICITADO.",
+     "Artigo": 198,
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 5878,
+     "Descrição": "ULTRAPASSAR PELA DIREITA ,SALVO QUANDO O VEICULO DA FRENTE ESTIVER COLOCADO NA FAIXA APROPRIADA E DER SINAL DE QUE VAI ENTRAR À ESQUERDA",
+     "Artigo": 199,
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 5886,
+     "Descrição": "ULTRAPASSAR PELA DIREITA VEICULO DE TRANSPORTE COLETIVO OU ESCOLARES, PARADO PARA EMBARQUE OU DESEMBARQUE DE PASSAGEIROS SALVO QUANDO HOUVER REFÚGIO DE SEGURANÇA PARA O PEDESTRE.",
+     "Artigo": 200,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 5894,
+     "Descrição": "DEIXAR DE GUARDAR A DISTÂNCIA LATERAL DE UM METRO E CINQÜENTA CENTÍMETROS AO PASSAR OU ULTRAPASSAR BICICLETA.",
+     "Artigo": 201,
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 5908,
+     "Descrição": "ULTRAPASSAR OUTRO VEICULO PELO ACOSTAMENTO",
+     "Artigo": "202 I",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 976.15
+    },
+    {
+     "Cod.": 5916,
+     "Descrição": "ULTRAPASSAR OUTRO VEICULO EM INTERSEÇÕES E PASSAGENS DE NÍVEL.",
+     "Artigo": "202 II",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 976.15
+    },
+    {
+     "Cod.": 5916,
+     "Descrição": "ULTRAPASSAR EM INTERSEÇÕES",
+     "Artigo": "202 II",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 976.15
+    },
+    {
+     "Cod.": 5916,
+     "Descrição": "ULTRAPASSAR EM PASSAGEM DE NÍVEL",
+     "Artigo": "202 II",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 976.15
+    },
+    {
+     "Cod.": 5924,
+     "Descrição": "ULTRAPASSAR PELA CONTRAMÃO OUTRO VEICULO NAS CURVAS, ACLIVES E DECLIVES SEM VISIBILIDADE SUFICIENTE.",
+     "Artigo": "203 I",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 1467.35
+    },
+    {
+     "Cod.": 5924,
+     "Descrição": "ULTRAPASSAR PELA CONTRAMAO EM CURVA SEM VISIBILIDADE",
+     "Artigo": "203 I",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 1467.35
+    },
+    {
+     "Cod.": 5924,
+     "Descrição": "ULTRAPASSAR P\/CONTRAMAO EM ACLIVE\/DECLIVE S\/VISIBILIDADE",
+     "Artigo": "203 I",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 1467.35
+    },
+    {
+     "Cod.": 5932,
+     "Descrição": "ULTRAPASSAR PELA CONTRAMÃO OUTRO VEICULO NAS FAIXAS DE PEDESTRE.",
+     "Artigo": "203 II",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 1467.35
+    },
+    {
+     "Cod.": 5940,
+     "Descrição": "ULTRAPASSAR PELA CONTRAMÃO OUTRO VEICULO NAS PONTES VIADUTOS OU TÚNEIS.",
+     "Artigo": "203 III",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 1467.35
+    },
+    {
+     "Cod.": 5940,
+     "Descrição": "ULTRAPASSAR PELA CONTRAMAO EM PONTES",
+     "Artigo": "203 III",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 1467.35
+    },
+    {
+     "Cod.": 5940,
+     "Descrição": "ULTRAPASSAR PELA CONTRAMAO EM VIADUTOS",
+     "Artigo": "203 III",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 1467.35
+    },
+    {
+     "Cod.": 5940,
+     "Descrição": "ULTRAPASSAR PELA CONTRAMAO EM TUNEIS",
+     "Artigo": "203 III",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 1467.35
+    },
+    {
+     "Cod.": 5959,
+     "Descrição": "ULTRAPASSAR PELA CONTRAMÃO OUTRO VEICULO PARADO EM FILA JUNTO A SINAIS LUMINOSOS, PORTEIRAS, CANCELAS, CRUZAMENTOS OU QUALQUER OUTRO IMPEDIMENTO À LIVRE CIRCULAÇÃO",
+     "Artigo": "203 IV",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 1467.35
+    },
+    {
+     "Cod.": 5959,
+     "Descrição": "ULTRAPASSAR P\/CONTRAMAO VEICULO PARADO JUNTO A SEMAFORO",
+     "Artigo": "203 IV",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 1467.35
+    },
+    {
+     "Cod.": 5959,
+     "Descrição": "ULTRAPASSAR P\/CONTRAMAO VEICULO PARADO JUNTO A PORTEIRA",
+     "Artigo": "203 IV",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 1467.35
+    },
+    {
+     "Cod.": 5959,
+     "Descrição": "ULTRAPASSAR P\/CONTRAMAO VEICULO PARADO JUNTO A CANCELA",
+     "Artigo": "203 IV",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 1467.35
+    },
+    {
+     "Cod.": 5959,
+     "Descrição": "ULTRAPASSAR P\/CONTRAMAO VEICULO PARADO JUNTO A CRUZAMENTO",
+     "Artigo": "203 IV",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 1467.35
+    },
+    {
+     "Cod.": 5967,
+     "Descrição": "ULTRAPASSAR PELA CONTRAMÃO OUTRO VEICULO ONDE HOUVER MARCAÇÃO VIÁRIA LONGITUDINAL DE DIVISÃO DE FLUXOS OPOSTOS DO TIPO LINHA DUPLA CONTINUA OU SIMPLES CONTINUA AMARELA.",
+     "Artigo": "203 V",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 1467.35
+    },
+    {
+     "Cod.": 5975,
+     "Descrição": "DEIXAR DE PARAR O VEICULO NO ACOSTAMENTO À DIREITA PARA AGUARDAR A OPORTUNIDADE DE CRUZAR PISTA OU ENTRAR À ESQUERDA, ONDE HOUVER LOCAL APROPRIADO PARA OPERAÇÃO DE RETORNO.",
+     "Artigo": 204,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 5983,
+     "Descrição": "ULTRAPASSAR VEICULO EM MOVIMENTO QUE INTEGRE CORTEJO PRÉSTITO, DESFILE E FORMAÇÕES MILITARES SALVO COM AUTORIZAÇÃO DA AUTORIDADE DE TRÂNSITO OU DE SEUS AGENTES",
+     "Artigo": 205,
+     "Infrator": "Condutor",
+     "Agravante": "LEVE",
+     "Pontos": 3,
+     "Valor\n(R$)": 88.38
+    },
+    {
+     "Cod.": 5991,
+     "Descrição": "EXECUTAR OPERAÇÃO DE RETORNO EM LOCAIS PROIBIDOS PELA SINALIZAÇÃO.",
+     "Artigo": "206 I",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 6009,
+     "Descrição": "EXECUTAR OPERAÇÃO DE RETORNO NAS CURVAS, ACLIVES, DECLIVES, PONTES VIADUTOS E TÚNEIS.",
+     "Artigo": "206 II",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 6009,
+     "Descrição": "EXECUTAR OPERAÇÃO DE RETORNO NOS VIADUTOS",
+     "Artigo": "206 II",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 6009,
+     "Descrição": "EXECUTAR OPERAÇÃO DE RETORNO NOS TÚNEIS",
+     "Artigo": "206 II",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 6009,
+     "Descrição": "EXECUTAR RETORNO EM CURVA",
+     "Artigo": "206 II",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 6009,
+     "Descrição": "EXECUTAR RETORNO EM ACLIVE\/DECLIVE",
+     "Artigo": "206 II",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 6009,
+     "Descrição": "EXECUTAR RETORNO EM PONTES\/VIADUTOS\/TUNEIS",
+     "Artigo": "206 II",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 6017,
+     "Descrição": "EXECUTAR OPERAÇÃO DE RETORNO PASSANDO POR CIMA DE CALÇADA, PASSEIO",
+     "Artigo": "206 III",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 6017,
+     "Descrição": "EXECUTAR OPERAÇÃO DE RETORNO PASSANDO POR CIMA DE ILHA, REFÚGIO",
+     "Artigo": "206 III",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 6017,
+     "Descrição": "EXECUTAR OPERAÇÃO DE RETORNO PASSANDO POR CIMA DE AJARDINAMENTO",
+     "Artigo": "206 III",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 6017,
+     "Descrição": "EXECUTAR OPERAÇÃO DE RETORNO PASSANDO POR CIMA DE CANTEIRO DE DIVISOR DE PISTA",
+     "Artigo": "206 III",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 6017,
+     "Descrição": "EXECUTAR OPERAÇÃO DE RETORNO PASSANDO POR CIMA DE FAIXA DE PEDESTRES",
+     "Artigo": "206 III",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 6017,
+     "Descrição": "EXECUTAR OPERAÇÃO DE RETORNO PASSANDO POR CIMA DE FAIXA DE VEÍC NÃO MOTORIZADOS",
+     "Artigo": "206 III",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 6025,
+     "Descrição": "EXECUTAR OPERAÇÃO DE RETORNO NAS INTERSEÇÕES, ENTRANDO NA CONTRAMÃO DE DIREÇÃO DA VIA TRANSVERSAL",
+     "Artigo": "206 IV",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 6033,
+     "Descrição": "EXECUTAR OPERAÇÃO DE RETORNO COM PREJUÍZO DA LIVRE CIRCULAÇÃO OU DA SEGURANÇA AINDA QUE EM LOCAIS PERMITIDOS.",
+     "Artigo": "206 V",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 6041,
+     "Descrição": "EXECUTAR CONVERSAO A DIREITA EM LOCAL PROIBIDO",
+     "Artigo": 207,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6041,
+     "Descrição": "EXECUTAR CONVERSAO A ESQUERDA EM LOCAL PROIBIDO",
+     "Artigo": 207,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6050,
+     "Descrição": "AVANCAR O SINAL VERMELHO DO SEMAFORO",
+     "Artigo": 208,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 6050,
+     "Descrição": "AVANCAR O SINAL DE PARADA OBRIGATORIA",
+     "Artigo": 208,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 6050,
+     "Descrição": "AVANCAR O SINAL VERMELHO DO SEMAFORO (FISCALIZAÇÃO ELETRÔNICA)",
+     "Artigo": 208,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 6050,
+     "Descrição": "AVANÇAR O SINAL VERMELHO DO SEMÁFORO OU O DA PARADA OBRIGATÓRIA.",
+     "Artigo": 208,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 6068,
+     "Descrição": "TRANSPOR SEM AUTORIZAÇÃO , BLOQUEIO VIÁRIO COM OU SEM SINALIZAÇÃO OU DISPOSITIVO AUXILIARES DEIXAR DE ADENTRAR ÀS ÁREAS DESTINADAS À PASSAGEM DE VEÍCULO OU EVADIR-SE PARA NÃO EFETUAR O PAGAMENTO DO PEDÁGIO.",
+     "Artigo": 209,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6068,
+     "Descrição": "TRANSPOR BLOQUEIO VIARIO",
+     "Artigo": 209,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6068,
+     "Descrição": "NAO ADENTRAR AREA DESTINADA A PESAGEM DE VEICULO",
+     "Artigo": 209,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6068,
+     "Descrição": "EVADIR-SE SEM PAGAR PEDAGIO",
+     "Artigo": 209,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6076,
+     "Descrição": "TRANSPOR SEM AUTORIZAÇÃO BLOQUEIO VIÁRIO POLICIAL.",
+     "Artigo": 210,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 6084,
+     "Descrição": "ULTRAPASSAR VEICULO EM FILA PARADOS EM RAZÃO DE SINAL LUMINOSO, CANCELA, BLOQUEIO VIÁRIO PARCIAL OU QUALQUER OUTRO OBSTÁCULO, COM EXCEÇÃO DOS VEÍCULO NÃO MOTORIZADOS.",
+     "Artigo": 211,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6084,
+     "Descrição": "ULTRAPASSAR VEÍCULOS MOTORIZADOS EM FILA, PARADOS EM RAZÃO DE SINAL LUMINOSO",
+     "Artigo": 211,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6084,
+     "Descrição": "ULTRAPASSAR VEÍCULOS MOTORIZADOS EM FILA, PARADOS EM RAZÃO DE CANCELA",
+     "Artigo": 211,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6084,
+     "Descrição": "ULTRAPASSAR VEÍC MOTORIZADOS EM FILA PARADOS EM RAZÃO DE BLOQUEIO VIÁRIO PARCIAL",
+     "Artigo": 211,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6084,
+     "Descrição": "ULTRAPASSAR VEÍCULOS MOTORIZADOS EM FILA, PARADOS EM RAZÃO DE QUALQUER OBSTÁCULO",
+     "Artigo": 211,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6092,
+     "Descrição": "DEIXAR DE PARAR O VEICULO ANTES DE TRANSPOR LINHA FÉRREA.",
+     "Artigo": 212,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 6106,
+     "Descrição": "DEIXAR DE PARAR O VEICULO SEMPRE QUE A RESPECTIVA MARCHA FOR INTERCEPTADA POR AGRUPAMENTO DE PESSOAS COMO PRÉSTITOS, PASSEATAS, E OUTROS.",
+     "Artigo": "213 I",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 6114,
+     "Descrição": "DEIXAR DE PARAR O VEICULO SEMPRE QUE A RESPECTIVA MARCHA FOR INTERCEPTADA POR AGRUPAMENTOS DE VEÍCULO COMO CORTEJOS FORMAÇÕES MILITARES E OUTROS.",
+     "Artigo": "213 II",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6122,
+     "Descrição": "DEIXAR DE DAR PREFERÊNCIA DE PASSAGEM A PEDESTRE E A VEICULO NÃO MOTORIZADOS QUE SE ENCONTRE NA FAIXA A ELE DESTINADA.",
+     "Artigo": "214 I",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 6130,
+     "Descrição": "DEIXAR DE DAR PREFERÊNCIA DE PASSAGEM A PEDESTRE E A VEICULO NÃO MOTORIZADOS QUE NÃO HAJA CONCLUÍDO A TRAVESSIA MESMO QUE OCORRA SINAL VERDE PARA O VEICULO.",
+     "Artigo": "214 II",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 6149,
+     "Descrição": "DEIXAR DE DAR PREFERÊNCIA DE PASSAGEM A PEDESTRE E A VEICULO NÃO MOTORIZADO PORTADORES DE DEFICIÊNCIA FÍSICA CRIANÇAS, IDOSOS E GESTANTES.",
+     "Artigo": "214 III",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 6157,
+     "Descrição": "DEIXAR DE DAR PREFERÊNCIA DA PASSAGEM A PEDESTRE E A VEICULO NÃO MOTORIZADO QUANDO HOUVER INICIADO A TRAVESSIA MESMO QUE NÃO HAJA SINALIZAÇÃO A ELE DESTINADA.",
+     "Artigo": "214 IV",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6165,
+     "Descrição": "DEIXAR DE DAR PREFERÊNCIA DE PASSAGEM A PEDESTRE E A VEICULO NÃO MOTORIZADO QUE ESTEJA ATRAVESSANDO A VIA TRANSVERSAL PARA ONDE SE DIRIGE O VEICULO.",
+     "Artigo": "214 V",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6173,
+     "Descrição": "DEIXAR DE DAR PREFER EM INTERSEÇÃO NÃO SINALIZADA, A VEÍCULO QUE VIER DA DIREITA",
+     "Artigo": "215 I",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6173,
+     "Descrição": "NAO DAR PREFERENCIA A VEIC CIRC POR RODOVIA\/ROTATORIA",
+     "Artigo": "215 I",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6173,
+     "Descrição": "NAO DAR PREFERENCIA A VEIC VINDO DA DIREITA",
+     "Artigo": "215 I",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6181,
+     "Descrição": "DEIXAR DE DAR PREFERÊNCIA DE PASSAGEM NAS INTERSEÇÕES COM SINALIZAÇÃO DE REGULAMENTAÇÃO DE DÊ A PREFERÊNCIA.",
+     "Artigo": "215 II",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6190,
+     "Descrição": "ENTRAR OU SAIR DE ÁREAS LINDEIRAS SEM ESTAR ADEQUADAMENTE POSICIONADO PARA INGRESSO NA VIA E SEM AS PRECAUÇÕES COM A SEGURANÇA DE PEDESTRES E DE OUTROS VEÍCULO.",
+     "Artigo": 216,
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 6203,
+     "Descrição": "ENTRAR OU SAIR DE FILA DE VEICULO ESTACIONADOS SEM DAR PREFERÊNCIA DE PASSAGEM A PEDESTRES E A OUTROS VEÍCULO.",
+     "Artigo": 217,
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 6211,
+     "Descrição": "TRANSITAR EM VELOCIDADE SUPERIOR À MÁXIMA PERMITIDA PARA O LOCAL, MEDIDA POR EQUIPAMENTO HÁBIL EM VIAS DE TRÂNSITO RÁPIDO E VIAS ARTERIAIS QUANDO A VELOCIDADE FOR SUPERIOR À MÁXIMA EM ATÉ VINTE POR CENTO.",
+     "Artigo": "218 I a",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6220,
+     "Descrição": "TRANSITAR EM VELOCIDADE SUPERIOR À MÁXIMA PERMITIDA PARA O LOCAL, MEDIDA POR EQUIPAMENTO HÁBIL EM VIAS DE TRÂNSITO RÁPIDO E VIAS ARTERIAIS QUANDO A VELOCIDADE FOR SUPERIOR À MÁXIMA EM MAIS DE VINTE POR CENTO.",
+     "Artigo": "218 I b",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 880.41
+    },
+    {
+     "Cod.": 6238,
+     "Descrição": "TRANSITAR EM VELOCIDADE SUPERIOR À MÁXIMA PERMITIDA PARA O LOCAL, MEDIDA POR EQUIPAMENTO HÁBIL EM RODOVIAS, VIAS DE TRÂNSITO RÁPIDO E VIAS ARTÉRIAS, QUANDO A VELOCIDADE FOR SUPERIOR À MÁXIMA EM ATÉ 50%",
+     "Artigo": "218 IIa",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6246,
+     "Descrição": "TRANSITAR EM VELOCIDADE SUPERIOR À MÁXIMA PERMITIDA PARA O LOCAL, MEDIDA POR EQUIPAMENTO HÁBIL EM VIAS QUE NÃO SEJAM RODOVIAS DE TRÂNSITO RÁPIDO E VIAS ARTERIAIS, QUANDO A VELOCIDADE FOR SUPERIOR À MÁXIMA EM MAIS DE CINQÜENTA POR CENTO.",
+     "Artigo": "218 II b",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 880.41
+    },
+    {
+     "Cod.": 6254,
+     "Descrição": "TRANSITAR COM O VEICULO EM VELOCIDADE INFERIOR À METADE DA VELOCIDADE MÁXIMA ESTABELECIDA PARA A VIA, RETARDANDO OU OBSTRUINDO O TRÂNSITO A MENOS QUE AS CONDIÇÕES DE TRÁFEGO E METEOROLÓGICAS NÃO O PERMITAM SALVO SE ESTIVER NA FAIXA DA DIREITA.",
+     "Artigo": 219,
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 6262,
+     "Descrição": "DEIXAR DE REDUZIR A VELOCIDADE DO VEICULO DE FORMA COMPATÍVEL COM A SEGURANÇA DO TRÂNSITO QUANDO SE APROXIMAR DE PASSEATAS, AGLOMERAÇÕES, CORTEJO, PRÉSTITOS E DESFILES.",
+     "Artigo": "220 I",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 6270,
+     "Descrição": "DEIXAR DE REDUZIR A VELOCIDADE DO VEICULO DE FORMA COMPATÍVEL COM A SEGURANÇA DO TRÂNSITO NOS LOCAIS ONDE O TRÂNSITO ESTEJA SENDO CONTROLADO PELO AGENTE DA AUTORIDADE DE TRÂNSITO, MEDIANTE SINAIS SONOROS OU GESTOS.",
+     "Artigo": "220 II",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6289,
+     "Descrição": "DEIXAR DE REDUZIR A VELOCIDADE DO VEICULO DE FORMA COMPATÍVEL COM A SEGURANÇA DO TRÂNSITO AO APROXIMAR-SE DA GUIA DA CALÇADA ( MEIO-FIO ) OU ACOSTAMENTO.",
+     "Artigo": "220 III",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6289,
+     "Descrição": "DEIXAR DE REDUZIR A VELOCIDADE DO VEÍCULO AO APROXIMAR-SE DA GUIA DA CALÇADA",
+     "Artigo": "220 III",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6289,
+     "Descrição": "DEIXAR DE REDUZIR A VELOCIDADE DO VEÍCULO AO APROXIMAR-SE DO ACOSTAMENTO",
+     "Artigo": "220 III",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6297,
+     "Descrição": "DEIXAR DE REDUZIR A VELOCIDADE DO VEICULO DE FORMA COMPATÍVEL COM A SEGURANÇA DO TRÂNSITO AO APROXIMAR-SE DE OU PASSAR POR INTERSEÇÃO NÃO SINALIZADA.",
+     "Artigo": "220 IV",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6300,
+     "Descrição": "DEIXAR DE REDUZIR A VELOCIDADE DO VEICULO DE FORMA COMPATÍVEL COM A SEGURANÇA DO TRÂNSITO NAS VIAS RURAIS CUJA FAIXA DE DOMÍNIO NÃO ESTEJA CERCADA.",
+     "Artigo": "220 V",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6319,
+     "Descrição": "DEIXAR DE REDUZIR A VELOCIDADE DO VEICULO DE FORMA COMPATÍVEL COM A SEGURANÇA DO TRÂNSITO NOS TRECHOS EM CURVA DE PEQUENO RAIO.",
+     "Artigo": "220 VI",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6327,
+     "Descrição": "DEIXAR DE REDUZIR A VELOCIDADE DO VEICULO DE FORMA COMPATÍVEL COM A SEGURANÇA DO TRÂNSITO AO APROXIMAR-SE DE LOCAIS SINALIZADOS COM ADVERTÊNCIA DE OBRAS OU TRABALHADORES NA PISTA.",
+     "Artigo": "220 VII",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6335,
+     "Descrição": "DEIXAR DE REDUZIR A VELOCIDADE DO VEICULO DE FORMA COMPATÍVEL COM A SEGURANÇA DO TRÂNSITO SOB CHUVA, NEBLINA, CERRAÇÃO OU VENTOS FORTES.",
+     "Artigo": "220 VIII",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6343,
+     "Descrição": "DEIXAR DE REDUZIR A VELOCIDADE DO VEICULO DE FORMA COMPATÍVEL COM A SEGURANÇA DO TRÂNSITO QUANDO HOUVER MÁ VISIBILIDADE.",
+     "Artigo": "220 IX",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6351,
+     "Descrição": "DEIXAR DE REDUZIR A VELOCIDADE DO VEICULO DE FORMA COMPATÍVEL COM A SEGURANÇA DO TRÂNSITO QUANDO O PAVIMENTO SE APRESENTAR ESCORREGADIO, DEFEITUOSO OU AVARIADO.",
+     "Artigo": "220 X",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6360,
+     "Descrição": "DEIXAR DE REDUZIR A VELOCIDADE ? APROXIMACAO DE ANIMAIS NA PISTA",
+     "Artigo": "220 * XI",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 127.69
+    },
+    {
+     "Cod.": 6361,
+     "Descrição": "DEIXAR DE REDUZIR A VELOCIDADE DO VEICULO DE FORMA COMPATÍVEL COM A SEGURANÇA DO TRÂNSITO À APROXIMAÇÃO DE ANIMAIS NA PISTA.",
+     "Artigo": "220 XI",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6378,
+     "Descrição": "DEIXAR DE REDUZIR A VELOCIDADE DO VEICULO DE FORMA COMPATÍVEL COM A SEGURANÇA DO TRÂNSITO EM DECLIVE.",
+     "Artigo": "220 XII",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6386,
+     "Descrição": "DEIXAR DE REDUZIR A VELOCIDADE DO VEICULO DE FORMA COMPATÍVEL COM A SEGURANÇA DO TRÂNSITO AO ULTRAPASSAR CICLISTA.",
+     "Artigo": "220 XIII",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6394,
+     "Descrição": "DEIXAR DE REDUZIR A VELOCIDADE DO VEICULO DE FORMA COMPATÍVEL COM A SEGURANÇA DO TRÂNSITO NAS PROXIMIDADES DE ESCOLAS, HOSPITAIS, ESTAÇÕES DE EMBARQUE E DESEMBARQUE DE PASSAGEIROS OU ONDE HAJA INTENSA MOVIMENTAÇÃO DE PEDESTRES.",
+     "Artigo": "220 XIV",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 6394,
+     "Descrição": "VELOCIDADE INCOMPATIVEL PROX A ESCOLAS",
+     "Artigo": "220 XIV",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 6394,
+     "Descrição": "VELOCIDADE INCOMPATIVEL PROX A HOSPITAIS",
+     "Artigo": "220 XIV",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 6394,
+     "Descrição": "VELOCIDADE INCOMPATIVEL PROX ESTACAO DE EMB\/DESEMB PASSAG",
+     "Artigo": "220 XIV",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 6394,
+     "Descrição": "VELOCIDADE INCOMPATIVEL A INTENSA MOVIMENTACAO PEDESTRE",
+     "Artigo": "220 XIV",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 6408,
+     "Descrição": "PORTAR NO VEICULO PLACAS DE IDENTIFICAÇÃO EM DESACORDO COM AS ESPECIFICAÇÃO E MODELOS ESTABELECIDOS PELO CONTRAN.",
+     "Artigo": 221,
+     "Infrator": "Proprietario",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 6416,
+     "Descrição": "CONFECCIONAR DISTRIBUIR OU COLOCAR, EM VEICULO PRÓPRIO OU DE TERCEIROS PLACAS DE IDENTIFICAÇÃO NÃO AUTORIZADAS PELA REGULAMENTAÇÃO DO CONTRAN.",
+     "Artigo": "221 UNICO",
+     "Infrator": "Jurídica",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 6424,
+     "Descrição": "DEIXAR DE MANTER LIGADO NAS SITUAÇÕES DE ATENDIMENTO DE EMERGÊNCIA, O SISTEMA DE ILUMINAÇÃO VERMELHA INTERMITENTE DOS VEICULO DE POLICIA DE SOCORRO DE INCÊNDIO E SALVAMENTO, DE FISCALIZAÇÃO DE TRÂNSITO E DAS AMBULÂNCIAS, AINDA QUE PARADOS.",
+     "Artigo": 222,
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 6432,
+     "Descrição": "TRANSITAR COM O FAROL DESREGULADO OU COM O FACHO DE LUZ ALTA DE FORMA A PERTURBAR A VISÃO DE OUTRO CONDUTOR.",
+     "Artigo": 223,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6432,
+     "Descrição": "TRANSITAR COM FAROL DESREGULADO PERTURBANDO VISÃO OUTRO CONDUTOR",
+     "Artigo": 223,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6432,
+     "Descrição": "TRANSITAR COM O FACHO DE LUZ ALTA PERTURBANDO VISÃO OUTRO CONDUTOR",
+     "Artigo": 223,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6440,
+     "Descrição": "FAZER USO DO FACHO DE LUZ ALTA DOS FARÓIS EM VIAS PROVIDAS DE ILUMINAÇÃO PÚBLICA",
+     "Artigo": 224,
+     "Infrator": "Condutor",
+     "Agravante": "LEVE",
+     "Pontos": 3,
+     "Valor\n(R$)": 88.38
+    },
+    {
+     "Cod.": 6459,
+     "Descrição": "DEIXAR DE SINALIZAR A VIA DE FORMA A PREVENIR OS DEMAIS CONDUTORES E,À NOITE NÃO MANTER ACESAS AS LUZES EXTERNAS OU OMITIR-SE A PROVIDÊNCIAS NECESSÁRIAS PARA TORNAR VISÍVEL O LOCAL, QUANDO TIVER DE REMOVER O VEICULO DA PISTA DE ROLAMENTO OU PERMANECER NO",
+     "Artigo": 225,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6459,
+     "Descrição": "DEIXAR DE SINALIZAR VIA P\/ TORNAR VISÍVEL LOCAL QDO TIVER REMOVER VEÍC DA PISTA",
+     "Artigo": 225,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6459,
+     "Descrição": "DEIXAR DE SINALIZAR A VIA P\/ TORNAR VISÍVEL O LOCAL QDO PERMANECER ACOSTAMENTO",
+     "Artigo": 225,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6467,
+     "Descrição": "DEIXAR DE SINALIZAR A VIA DE FORMA A PREVENIR OS DEMAIS CONDUTORES E,À NOITE NÃO MANTER ACESAS AS LUZES EXTERNAS OU OMITIR-SE A PROVIDÊNCIAS NECESSÁRIAS PARA TORNAR VISÍVEL O LOCAL, QUANDO A CARGA FOR DERRAMADA SOBRE A VIA E NÃO SER RETIRADA IMEDIATAMENTE",
+     "Artigo": "225 II",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6475,
+     "Descrição": "DEIXAR DE RETIRAR TODO E QUALQUER OBJETO QUE TENHA SIDO UTILIZADO PARA SINALIZAÇÃO TEMPORÁRIA DA VIA.",
+     "Artigo": 226,
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 6483,
+     "Descrição": "USAR BUZINA EM SITUAÇÃO QUE NÃO DE SIMPLES TOQUE BREVE COMO ADVERTÊNCIA AO PEDESTRE OU A CONDUTORES DE OUTROS VEÍCULO.",
+     "Artigo": "227 I",
+     "Infrator": "Condutor",
+     "Agravante": "LEVE",
+     "Pontos": 3,
+     "Valor\n(R$)": 88.38
+    },
+    {
+     "Cod.": 6491,
+     "Descrição": "USAR BUZINA PROLONGADA E SUCESSIVAMENTE A QUALQUER PRETEXTO.",
+     "Artigo": "227 II",
+     "Infrator": "Condutor",
+     "Agravante": "LEVE",
+     "Pontos": 3,
+     "Valor\n(R$)": 88.38
+    },
+    {
+     "Cod.": 6505,
+     "Descrição": "USAR BUZINA ENTRE AS VINTE E DUAS E AS SEIS HORAS.",
+     "Artigo": "227 III",
+     "Infrator": "Condutor",
+     "Agravante": "LEVE",
+     "Pontos": 3,
+     "Valor\n(R$)": 88.38
+    },
+    {
+     "Cod.": 6513,
+     "Descrição": "USAR BUZINA EM LOCAIS E HORÁRIOS PROIBIDOS PELA SINALIZAÇÃO.",
+     "Artigo": "227 IV",
+     "Infrator": "Condutor",
+     "Agravante": "LEVE",
+     "Pontos": 3,
+     "Valor\n(R$)": 88.38
+    },
+    {
+     "Cod.": 6521,
+     "Descrição": "USAR BUZINA EM DESACORDO COM OS PADRÕES E FREQÜÊNCIAS ESTABELECIDAS PELO CONTRAN.",
+     "Artigo": "227 V",
+     "Infrator": "Proprietario",
+     "Agravante": "LEVE",
+     "Pontos": 3,
+     "Valor\n(R$)": 88.38
+    },
+    {
+     "Cod.": 6530,
+     "Descrição": "USAR NO VEICULO EQUIPAMENTO COM SOM EM VOLUME OU FREQÜÊNCIA QUE NÃO SEJAM AUTORIZADAS PELO CONTRAN.",
+     "Artigo": 228,
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6548,
+     "Descrição": "USAR INDEVIDAMENTE NO VEICULO APARELHO DE ALARME OU QUE PRODUZA SONS E RUÍDO QUE PERTURBEM O SOSSEGO PÚBLICO, EM DESACORDO COM NORMAS FIXADAS PELO CONTRAN.",
+     "Artigo": 229,
+     "Infrator": "Proprietario",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 6548,
+     "Descrição": "USAR NO VEÍC ALARME Q PERTURBE O SOSSEGO PÚBLICO, EM DESACORDO NORMAS DO CONTRAN",
+     "Artigo": 229,
+     "Infrator": "Proprietario",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 6548,
+     "Descrição": "USAR NO VEÍC APARELHO PRODUZA SOM\/RUÍDO PERTURBE SOSSEGO PÚBLIC DESAC C\/ CONTRAN",
+     "Artigo": 229,
+     "Infrator": "Proprietario",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 6556,
+     "Descrição": "CONDUZIR O VEÍCULO COM O LACRE DE IDENTIFICAÇÃO VIOLADO\/FALSIFICADO",
+     "Artigo": "230 I",
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 6556,
+     "Descrição": "CONDUZIR O VEÍCULO COM A INSCRIÇÃO DO CHASSI VIOLADA\/FALSIFICADA",
+     "Artigo": "230 I",
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 6556,
+     "Descrição": "CONDUZIR O VEÍCULO COM O SELO VIOLADO\/FALSIFICADO",
+     "Artigo": "230 I",
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 6556,
+     "Descrição": "CONDUZIR O VEÍCULO COM A PLACA VIOLADA\/FALSIFICADA",
+     "Artigo": "230 I",
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 6556,
+     "Descrição": "CONDUZIR O VEÍCULO COM QUALQUER OUTRO ELEM DE IDENTIFICAÇÃO VIOLADO\/FALSIFICADO",
+     "Artigo": "230 I",
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 6564,
+     "Descrição": "CONDUZIR O VEICULO TRANSPORTANDO PASSAGEIROS EM COMPARTIMENTO DE CARGA, SALVO POR MOTIVO DE FORÇA MAIOR , COM PERMISSÃO DA AUTORIDADE COMPETENTE E NA FORMA ESTABELECIDA PELO CONTRAN.",
+     "Artigo": "230 II",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 6572,
+     "Descrição": "CONDUZIR O VEICULO COM DISPOSITIVO ANTI-RADAR.",
+     "Artigo": "230 III",
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 6580,
+     "Descrição": "CONDUZIR O VEICULO SEM QUALQUER UMA DAS PLACAS DE IDENTIFICAÇÃO.",
+     "Artigo": "230 IV",
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 6599,
+     "Descrição": "CONDUZIR O VEÍCULO QUE NÃO ESTEJA REGISTRADO",
+     "Artigo": "230 V",
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 6599,
+     "Descrição": "CONDUZIR O VEÍCULO REGISTRADO QUE NÃO ESTEJA DEVIDAMENTE LICENCIADO",
+     "Artigo": "230 V",
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 6602,
+     "Descrição": "CONDUZIR O VEICULO COM QUALQUER UMA DAS PLACAS DE IDENTIFICAÇÃO SEM CONDIÇÕES DE LEGIBILIDADE E VISIBILIDADE.",
+     "Artigo": "230 VI",
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 6610,
+     "Descrição": "CONDUZIR O VEÍCULO COM A COR ALTERADA",
+     "Artigo": "230 VII",
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6610,
+     "Descrição": "CONDUZIR O VEÍCULO COM CARACTERÍSTICA ALTERADA",
+     "Artigo": "230 VII",
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6629,
+     "Descrição": "CONDUZIR O VEICULO SEM TER SIDO SUBMETIDO A INSPEÇÃO DE SEGURANÇA VEICULAR, QUANDO OBRIGATÓRIA.",
+     "Artigo": "230 VIII",
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6637,
+     "Descrição": "CONDUZIR O VEÍCULO SEM EQUIPAMENTO OBRIGATÓRIO",
+     "Artigo": "230 IX",
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6637,
+     "Descrição": "CONDUZIR O VEÍCULO COM EQUIPAMENTO OBRIGATÓRIO INEFICIENTE\/INOPERANTE",
+     "Artigo": "230 IX",
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6645,
+     "Descrição": "CONDUZIR O VEICULO COM EQUIPAMENTO OBRIGATÓRIO EM DESACORDO COM O ESTABELECIDO PELO CONTRAN.",
+     "Artigo": "230 X",
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6653,
+     "Descrição": "CONDUZIR O VEICULO COM DESCARGA LIVRE OU SILENCIADOR DE MOTOR DE EXPLOSÃO DEFEITUOSO, DEFICIENTE OU INOPERANTE.",
+     "Artigo": "230 XI",
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6653,
+     "Descrição": "CONDUZIR O VEÍCULO COM DESCARGA LIVRE",
+     "Artigo": "230 XI",
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6653,
+     "Descrição": "CONDUZIR O VEÍCULO COM SILENCIADOR DE MOTOR DEFEITUOSO\/DEFICIENTE\/INOPERANTE",
+     "Artigo": "230 XI",
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6661,
+     "Descrição": "CONDUZIR O VEICULO COM EQUIPAMENTO OU ACESSÓRIO PROIBIDO.",
+     "Artigo": "230 XII",
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6670,
+     "Descrição": "CONDUZIR O VEICULO COM O EQUIPAMENTO DO SISTEMA DE ILUMINAÇÃO E DE SINALIZAÇÃO ALTERADOS.",
+     "Artigo": "230 XIII",
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6688,
+     "Descrição": "CONDUZIR O VEICULO COM REGISTRADOR INSTANTÂNEO INALTERÁVEL DE VELOCIDADE E TEMPO VICIADO OU DEFEITUOSO, QUANDO HOUVER EXIGÊNCIA DESSE APARELHO.",
+     "Artigo": "230 XIV",
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6696,
+     "Descrição": "CONDUZIR O VEICULO COM INSCRIÇÕES, ADESIVOS, LEGENDAS E SÍMBOLOS DE CARÁTER PUBLICITÁRIO AFIXADOS OU PINTADOS NO PÁRA-BRISA E EM TODA A EXTENSÃO DA PARTE TRASEIRA DO VEICULO, EXCETUADAS AS HIPÓTESES PREVISTAS NO CÓDIGO DE TRÂNSITO BRASILEIRO.",
+     "Artigo": "230 XV",
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6696,
+     "Descrição": "CONDUZIR C\/ INSCR\/ADESIVO\/LEGENDA\/SÍMBOLO AFIXADO PÁRA-BRISA E EXTENSÃO TRASEIRA",
+     "Artigo": "230 XV",
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6696,
+     "Descrição": "CONDUZIR C\/ INSCR\/ADESIVO\/LEGENDA\/SÍMBOLO PINTADO PÁRA-BRISA E EXTENSÃO TRASEIRA",
+     "Artigo": "230 XV",
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6700,
+     "Descrição": "CONDUZIR O VEÍCULO COM VIDROS TOTALMENTE COBERTOS POR PELÍCULA, PAINÉIS\/PINTURA",
+     "Artigo": "230 XVI",
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6700,
+     "Descrição": "CONDUZIR O VEÍCULO C\/ VIDROS PARCIALMENTE COBERTOS POR PELÍCULA, PAINÉIS\/PINTURA",
+     "Artigo": "230 XVI",
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6700,
+     "Descrição": "CONDUZIR O VEICULO COM VIDROS TOTAL OU PARCIALMENTE COBERTOS POR PELÍCULAS REFLETIVAS OU NÃO, PAINÉIS DECORATIVOS OU PINTURAS.",
+     "Artigo": "230 XVI",
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6718,
+     "Descrição": "CONDUZIR O VEICULO COM CORTINAS OU PERSIANAS FECHADAS, NÃO AUTORIZADAS PELA LEGISLAÇÃO.",
+     "Artigo": "230 XVII",
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6726,
+     "Descrição": "CONDUZIR O VEICULO EM MAU ESTADO DE CONSERVAÇÃO, COMPROMETENDO A SEGURANÇA, OU REPROVADO NA AVALIAÇÃO DE INSPEÇÃO DE SEGURANÇA E DE EMISSÃO DE POLUENTES E RUÍDO.",
+     "Artigo": "230 XVIII",
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6726,
+     "Descrição": "CONDUZIR O VEÍCULO EM MAU ESTADO DE CONSERVAÇÃO",
+     "Artigo": "230 XVIII",
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6726,
+     "Descrição": "CONDUZIR O VEÍCULO REPROVADO NA AVALIAÇÃO DE INSPEÇÃO DE SEGURANÇA",
+     "Artigo": "230 XVIII",
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6726,
+     "Descrição": "CONDUZIR O VEÍCULO REPROVADO NA AVALIAÇÃO DE EMISSÃO DE POLUENTES E RUÍDO",
+     "Artigo": "230 XVIII",
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6734,
+     "Descrição": "CONDUZIR O VEICULO SEM ACIONAR O LIMPADOR DE PÁRA-BRISA SOB CHUVA.",
+     "Artigo": "230 XIX",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6742,
+     "Descrição": "CONDUZIR O VEICULO SEM PORTAR A AUTORIZAÇÃO PARA CONDUÇÃO DE ESCOLARES.",
+     "Artigo": "230 XX",
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6750,
+     "Descrição": "CONDUZIR O VEICULO DE CARGA COM FALTA DE INSCRIÇÃO DA TARA E DEMAIS INSCRIÇÕES PREVISTAS NO CÓDIGO DE TRÂNSITO BRASILEIRO.",
+     "Artigo": "230 XXI",
+     "Infrator": "Proprietario",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 6769,
+     "Descrição": "CONDUZIR O VEICULO COM DEFEITO NO SISTEMA DE ILUMINAÇÃO, DE SINALIZAÇÃO OU COM LÂMPADAS QUEIMADAS.",
+     "Artigo": "230 XXII",
+     "Infrator": "Proprietario",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 6769,
+     "Descrição": "CONDUZIR O VEÍCULO COM DEFEITO NO SISTEMA DE ILUMINAÇÃO",
+     "Artigo": "230 XXII",
+     "Infrator": "Proprietario",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 6769,
+     "Descrição": "CONDUZIR O VEÍCULO COM DEFEITO NO SISTEMA DE SINALIZAÇÃO",
+     "Artigo": "230 XXII",
+     "Infrator": "Proprietario",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 6769,
+     "Descrição": "CONDUZIR O VEÍCULO COM LÂMPADAS QUEIMADAS",
+     "Artigo": "230 XXII",
+     "Infrator": "Proprietario",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 6777,
+     "Descrição": "TRANSITAR COM O VEICULO DANIFICANDO A VIA, SUAS INSTALAÇÕES E EQUIPAMENTOS.",
+     "Artigo": "231 I",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6785,
+     "Descrição": "TRANSITAR COM O VEICULO DERRAMANDO, LANÇANDO OU ARRASTANDO SOBRE A VIA CARGA QUE ESTEJA TRANSPORTANDO.",
+     "Artigo": "231 II a",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 6785,
+     "Descrição": "TRANSITAR COM VEÍCULO DERRAMANDO A CARGA QUE ESTEJA TRANSPORTANDO",
+     "Artigo": "231 II a",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 6785,
+     "Descrição": "TRANSITAR COM VEÍCULO LANÇANDO A CARGA QUE ESTEJA TRANSPORTANDO",
+     "Artigo": "231 II a",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 6785,
+     "Descrição": "TRANSITAR COM VEÍCULO ARRASTANDO A CARGA QUE ESTEJA TRANSPORTANDO",
+     "Artigo": "231 II a",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 6793,
+     "Descrição": "TRANSITAR COM O VEÍCULO DERRAMANDO, LANÇANDO OU ARRASTANDO SOBRE A VIA COMBUSTÍVEL OU LUBRIFICANTE QUE ESTEJA UTILIZANDO.",
+     "Artigo": "231 II b",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 6807,
+     "Descrição": "TRANSITAR COM O VEÍCULO DERRAMANDO, LANÇANDO OU ARRASTANDO QUALQUER OBJETO QUE POSSA ACARRETAR RISCO DE ACIDENTE.",
+     "Artigo": "231 II c",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 6815,
+     "Descrição": "TRANSITAR COM O VEÍCULO PRODUZINDO FUMAÇA GASES OU PARTÍCULAS EM NÍVEIS SUPERIORES AOS FIXADOS PELO CONTRAN.",
+     "Artigo": "231 III",
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6823,
+     "Descrição": "TRANS C\/VEICULO C\/ALTURA ACIMA DA PERMITIDA",
+     "Artigo": "231 IV",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6823,
+     "Descrição": "TRANS C\/VEICULO C\/LARGURA SUPERIOR A PERMITIDA",
+     "Artigo": "231 IV",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6831,
+     "Descrição": "TRANSITAR COM O VEÍCULO COM EXCESSO DE PESO, ADMITIDO PERCENTUAL DE TOLERÂNCIA QUANDO AFERIDO POR EQUIPAMENTO, NA FORMA A SER ESTABELECIDA PELO CONTRAN. (VALOR DA MULTA SERÁ ACRESCIDA AO DAS SITUAÇÕES \"A\" A \"F\")",
+     "Artigo": "231 V",
+     "Infrator": "Jurídica",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 6831,
+     "Descrição": "TRANSITAR COM O VEÍCULO COM EXCESSO DE PESO, ADMITIDO PERCENTUAL DE TOLERÂNCIA QUANDO AFERIDO POR EQUIPAMENTO, NA FORMA A SER ESTABELECIDA PELO CONTRAN. (VALOR DA MULTA SERÁ ACRESCIDA AO DAS SITUAÇÕES \"A\" A \"F\")",
+     "Artigo": "231 V",
+     "Infrator": "Jurídica",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 85.12
+    },
+    {
+     "Cod.": 6831,
+     "Descrição": "TRANSITAR COM O VEÍCULO COM EXCESSO DE PESO, ADMITIDO PERCENTUAL DE TOLERÂNCIA QUANDO AFERIDO POR EQUIPAMENTO, NA FORMA A SER ESTABELECIDA PELO CONTRAN. (VALOR DA MULTA SERÁ ACRESCIDA AO DAS SITUAÇÕES \"A\" A \"F\")",
+     "Artigo": "231 V",
+     "Infrator": "Jurídica",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 85.12
+    },
+    {
+     "Cod.": 6831,
+     "Descrição": "TRANSITAR COM O VEÍCULO COM EXCESSO DE PESO, ADMITIDO PERCENTUAL DE TOLERÂNCIA QUANDO AFERIDO POR EQUIPAMENTO, NA FORMA A SER ESTABELECIDA PELO CONTRAN. (VALOR DA MULTA SERÁ ACRESCIDA AO DAS SITUAÇÕES \"A\" A \"F\")",
+     "Artigo": "231 V",
+     "Infrator": "Jurídica",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 6840,
+     "Descrição": "TRANSITAR COM O VEICULO EM DESACORDO COM A AUTORIZAÇÃO ESPECIAL EXPEDIDA PELA AUTORIDADE COMPETENTE PARA TRANSITAR COM DIMENSÕES EXCEDENTES, OU QUANDO A MESMA ESTIVER VENCIDA.",
+     "Artigo": "231 VI",
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6840,
+     "Descrição": "TRANSITAR EM DESACORDO C\/ AUTORIZAÇÃO EXPEDIDA P\/VEÍCULO C\/ DIMENSÕES EXCEDENTES",
+     "Artigo": "231 VI",
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6840,
+     "Descrição": "TRANSITAR COM AUTORIZAÇÃO VENCIDA, EXPEDIDA P\/ VEÍCULO C\/ DIMENSÕES EXCEDENTES",
+     "Artigo": "231 VI",
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6858,
+     "Descrição": "TRANSITAR COM O VEICULO COM LOTAÇÃO EXCEDENTE.",
+     "Artigo": "231 VII",
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 6866,
+     "Descrição": "TRANSITAR EFETUANDO TRANSPORTE REMUNERADO DE PESSOAS QDO Ñ LICENCIADO P\/ESSE FIM",
+     "Artigo": "231 VIII",
+     "Infrator": "Proprietario",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 6866,
+     "Descrição": "TRANSITAR EFETUANDO TRANSPORTE REMUNERADO DE BENS QDO NÃO LICENCIADO P\/ ESSE FIM",
+     "Artigo": "231 VIII",
+     "Infrator": "Proprietario",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 6874,
+     "Descrição": "TRANSITAR COM O VEÍCULO DESLIGADO EM DECLIVE",
+     "Artigo": "231 IX",
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 6874,
+     "Descrição": "TRANSITAR COM O VEÍCULO DESENGRENADO EM DECLIVE",
+     "Artigo": "231 IX",
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 6874,
+     "Descrição": "TRANSITAR COM O VEICULO DESLIGADO OU DESENGRENADO, EM DECLIVE.",
+     "Artigo": "231 IX",
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 6882,
+     "Descrição": "TRANSITAR COM O VEÍCULO EXCEDENDO A CAPACIDADE MÁXIMA DE TRAÇÃO, EM INFRAÇÃO CONSIDERADA MÉDIA PELO CONTRAN.",
+     "Artigo": "231 X",
+     "Infrator": "Proprietario",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 6890,
+     "Descrição": "TRANSITAR COM O VEÍCULO EXCEDENDO A CAPACIDADE MÁXIMA DE TRAÇÃO, EM INFRAÇÃO CONSIDERADA GRAVE PELO CONTRAN.",
+     "Artigo": "231 X",
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6904,
+     "Descrição": "TRANSITAR COM O VEÍCULO EXCEDENDO A CAPACIDADE MÁXIMA DE TRAÇÃO, EM INFRAÇÃO CONSIDERADA GRAVÍSSIMA PELO CONTRAN.",
+     "Artigo": "231 X",
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 6912,
+     "Descrição": "CONDUZIR VEÍCULO SEM OS DOCUMENTOS DE PORTE OBRIGATÓRIO.",
+     "Artigo": 232,
+     "Infrator": "Condutor",
+     "Agravante": "LEVE",
+     "Pontos": 3,
+     "Valor\n(R$)": 88.38
+    },
+    {
+     "Cod.": 6920,
+     "Descrição": "DEIXAR DE EFETUAR O REGISTRO DE VEÍCULOS NO PRAZO DE TRINTA DIAS, JUNTO AO ÓRGÃO EXECUTIVO DE TRÂNSITO.",
+     "Artigo": 233,
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6920,
+     "Descrição": "DEIXAR DE EFETUAR REGISTRO DE VEICULO 30 DIAS, QDO MUDAR MUNICÍPIO DE DOMICILIO \/ RESIDENCIA",
+     "Artigo": "233 c\/c 123,II",
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 127.69
+    },
+    {
+     "Cod.": 6920,
+     "Descrição": "DEIXAR DE EFETUAR REGISTRO VEICULO 30 DIAS, QDO FOR ALTERADA QUALQUER CARACTERÍSTICA DO VEICULO",
+     "Artigo": "233 c\/c 123,III",
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 127.69
+    },
+    {
+     "Cod.": 6920,
+     "Descrição": "DEIXAR DE EFETUAR REG VEICULO 30 DIAS, QUANDO HOUVER MUDANÇA DE CATEGORIA",
+     "Artigo": "233 c\/c 123, IV",
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 127.69
+    },
+    {
+     "Cod.": 6920,
+     "Descrição": "DEIXAR DE EFETUAR REGISTRO DO VEICULO EM 30 DIAS, QUANDO FOR TRANSFERÊNCIA A PROPRIEDADE",
+     "Artigo": "233 c\/c 123,I",
+     "Infrator": "Proprietario",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 6939,
+     "Descrição": "FALSIFICAR OU ADULTERAR DOCUMENTO DE HABILITAÇÃO E DE IDENTIFICAÇÃO DO VEÍCULO.",
+     "Artigo": 234,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 6939,
+     "Descrição": "FALSIFICAR DOCUMENTO DE HABILITAÇÃO",
+     "Artigo": 234,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 6939,
+     "Descrição": "ADULTERAR DOCUMENTO DE HABILITAÇÃO",
+     "Artigo": 234,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 6939,
+     "Descrição": "FALSIFICAR DOCUMENTO DE IDENTIFICAÇÃO DO VEÍCULO",
+     "Artigo": 234,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 6939,
+     "Descrição": "ADULTERAR DOCUMENTO DE IDENTIFICAÇÃO DO VEÍCULO",
+     "Artigo": 234,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 6947,
+     "Descrição": "CONDUZIR PESSOAS NAS PARTES EXTERNAS DO VEÍCULO",
+     "Artigo": 235,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6947,
+     "Descrição": "CONDUZIR ANIMAIS NAS PARTES EXTERNAS DO VEÍCULO",
+     "Artigo": 235,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6947,
+     "Descrição": "CONDUZIR CARGA NAS PARTES EXTERNAS DO VEÍCULO",
+     "Artigo": 235,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6955,
+     "Descrição": "REBOCAR OUTRO VEÍCULO COM CABO FLEXÍVEL OU CORDA, SALVO EM CASOS DE EMERGÊNCIA.",
+     "Artigo": 236,
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 6963,
+     "Descrição": "TRANSITAR COM O VEÍCULO EM DESACORDO COM AS ESPECIFICAÇÕES, E COM FALTA DE INSCRIÇÃO E SIMBOLOGIA NECESSÁRIAS À SUA IDENTIFICAÇÃO, QUANDO EXIGIDAS PELA LEGISLAÇÃO.",
+     "Artigo": 237,
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6963,
+     "Descrição": "TRANSITAR C\/ VEÍC EM DESACORDO C\/ ESPECIFICAÇÕES NECESSÁRIAS A SUA IDENTIFICAÇÃO",
+     "Artigo": 237,
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6963,
+     "Descrição": "TRANSITAR COM VEÍCULO COM FALTA DE INSCRIÇÃO NECESSÁRIA A SUA IDENTIFICAÇÃO",
+     "Artigo": 237,
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6963,
+     "Descrição": "TRANSITAR COM VEÍCULO COM FALTA DE SIMBOLOGIA NECESSÁRIA A SUA IDENTIFICAÇÃO",
+     "Artigo": 237,
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 6971,
+     "Descrição": "RECUSAR-SE A ENTREGAR À AUTORIDADE DE TRÂNSITO OU A SEUS AGENTES, MEDIANTE RECIBO, OS DOCUMENTOS DE HABILITAÇÃO, DE REGISTRO, DE LICENCIAMENTO DE VEÍCULO E OUTROS EXIGIDOS POR LEI, PARA AVERIGUAÇÃO DE SUA AUTORIDADE",
+     "Artigo": 238,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 6980,
+     "Descrição": "RETIRAR DO LOCAL VEÍCULO LEGALMENTE RETIDO PARA REGULARIZAÇÃO, SEM PERMISSÃO DA AUTORIDADE COMPETENTE OU DE SEUS AGENTES.",
+     "Artigo": 239,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 6998,
+     "Descrição": "DEIXAR O RESPONSÁVEL DE PROMOVER A BAIXA DO REGISTRO DE VEÍCULO IRRECUPERÁVEL OU DEFINITIVAMENTE DESMONTADO.",
+     "Artigo": 240,
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 7005,
+     "Descrição": "DEIXAR DE ATUALIZAR O CADASTRO DE REGISTRO DO VEÍCULO OU DE HABILITAÇÃO DO CONDUTOR.",
+     "Artigo": 241,
+     "Infrator": "Condutor",
+     "Agravante": "LEVE",
+     "Pontos": 3,
+     "Valor\n(R$)": 88.38
+    },
+    {
+     "Cod.": 7005,
+     "Descrição": "DEIXAR DE ATUALIZAR O CADASTRO DE REGISTRO DO VEÍCULO",
+     "Artigo": 241,
+     "Infrator": "Proprietario",
+     "Agravante": "LEVE",
+     "Pontos": 3,
+     "Valor\n(R$)": 88.38
+    },
+    {
+     "Cod.": 7005,
+     "Descrição": "DEIXAR DE ATUALIZAR O CADASTRO DE HABILITAÇÃO DO CONDUTOR",
+     "Artigo": 241,
+     "Infrator": "Condutor",
+     "Agravante": "LEVE",
+     "Pontos": 3,
+     "Valor\n(R$)": 88.38
+    },
+    {
+     "Cod.": 7013,
+     "Descrição": "FAZER FALSA DECLARAÇÃO DE DOMICÍLIO PARA FINS DE REGISTRO\/LICENCIAMENTO",
+     "Artigo": 242,
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 7013,
+     "Descrição": "FAZER FALSA DECLARAÇÃO DE DOMICÍLIO PARA FINS DE HABILITAÇÃO",
+     "Artigo": 242,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 7013,
+     "Descrição": "FAZER FALSA DECLARAÇÃO DE DOMICÍLIO PARA FINS DE REGISTRO, LICENCIAMENTO OU HABILITAÇÃO.",
+     "Artigo": 242,
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 7021,
+     "Descrição": "DEIXAR A EMPRESA SEGURADORA DE COMUNICAR AO ÓRGÃO EXECUTIVO DE TRÂNSITO COMPETENTE A OCORRÊNCIA DE PERDA TOTAL DO VEÍCULO E DE LHE DEVOLVER AS RESPECTIVAS PLACAS E DOCUMENTOS.",
+     "Artigo": 243,
+     "Infrator": "Jurídica",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 7030,
+     "Descrição": "CONDUZIR MOTOCICLETA, MOTONETA E CICLOMOTOR SEM VESTUÁRIO APROVADO PELO CONTRAN",
+     "Artigo": "244 I",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 7030,
+     "Descrição": "CONDUZIR MOTOCICLETA, MOTONETA E CICLOMOTOR SEM VESTUÁRIO APROVADO PELO CONTRAN",
+     "Artigo": "244 I",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 191.53
+    },
+    {
+     "Cod.": 7030,
+     "Descrição": "COND MOTOCICLETA, MOTONETA E CICLOMOTOR SEM USAR CAPACETE",
+     "Artigo": "244 I",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 7030,
+     "Descrição": "CONDUZIR MOTOCICLETA\/MOTONETA\/CICLOMOTOR C\/ CAPACETE S\/ VISEIRA\/ÓCULOS PROTEÇÃO",
+     "Artigo": "244 I",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 7048,
+     "Descrição": "COND MOTO\/MOTONETA\/CICLOMOTOR C\/PASS SEM USAR CAPACETE",
+     "Artigo": "244 II",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 7048,
+     "Descrição": "CONDUZIR MOTOCICLETA\/MOTONETA\/CICLOMOTOR TRANSP. PASSAG S\/ VISEIRA\/OCULOS PROTEÇÃO",
+     "Artigo": "244 II",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 7048,
+     "Descrição": "CONDUZIR MOTOCICLETA\/MOTONETA\/CICLOMOTOR TRANSPORTANDO PAS. FORA DO ASSENTO",
+     "Artigo": "244 II",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 191.53
+    },
+    {
+     "Cod.": 7048,
+     "Descrição": "CONDUZIR MOTOCICLETA\/MOTONETA\/CICLOMOTOR TRANSPORTANDO PAS. FORA DO ASSENTO",
+     "Artigo": "244 II",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 7056,
+     "Descrição": "CONDUZIR MOTOC\/MOTON\/CICLOMOTOR FAZENDO MALABARISMO\/EQUILIBRANDOSE EM UMA RODA",
+     "Artigo": "244 III",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 7056,
+     "Descrição": "CONDUZIR CICLO FAZENDO MALABARISMO OU EQUILIBRANDO-SE EM UMA RODA",
+     "Artigo": "244 III",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 7056,
+     "Descrição": "CONDUZIR MOTOCICLETA, MOTONETA E CICLOMOTOR COM E CICLO FAZENDO MALABARISMO OU EQUILIBRANDO-SE APENAS EM UMA RODA.",
+     "Artigo": "244 III",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 7064,
+     "Descrição": "CONDUZIR MOTOCICLETA, MOTONETA E CICLOMOTOR COM OS FARÓIS APAGADOS.",
+     "Artigo": "244 IV",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 7072,
+     "Descrição": "CONDUZIR MOTOCICLETA, MOTONETA E CICLOMOTOR TRANSPORTANDO CRIANÇA MENOR DE SETE ANOS OU QUE NÃO TENHA, NAS CIRCUNSTÂNCIAS, CONDIÇÕES DE CUIDAR DE SUA PRÓPRIA SEGURANÇA.",
+     "Artigo": "244 V",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 7072,
+     "Descrição": "CONDUZIR MOTOCICLETA\/MOTONETA\/CICLOMOTOR TRANSPORTANDO CRIANÇA MENOR DE 7 ANOS",
+     "Artigo": "244 V",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 7072,
+     "Descrição": "CONDUZIR MOTOC\/MOTON\/CICLOM TRANSP CRIANÇA S\/ CONDIÇÃO CUIDAR PRÓPRIA SEGURANÇA",
+     "Artigo": "244 V",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 7080,
+     "Descrição": "CONDUZIR MOTOCICLETA, MOTONETA E CICLOMOTOR REBOCANDO OUTRO VEÍCULO.",
+     "Artigo": "244 VI",
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 7099,
+     "Descrição": "CONDUZIR MOTOCICLETA, MOTONETA, CICLOMOTOR E CICLO SEM SEGURAR O GUIDOM COM AMBAS AS MÃOS, SALVO EVENTUALMENTE PARA INDICAÇÃO DE MANOBRAS.",
+     "Artigo": "244 VII",
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 7099,
+     "Descrição": "CONDUZIR MOTOCICLETA\/MOTONETA\/CICLOMOTOR SEM SEGURAR O GUIDOM COM AMBAS AS MÃOS",
+     "Artigo": "244 VII",
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 7099,
+     "Descrição": "CONDUZIR CICLO SEM SEGURAR O GUIDOM COM AMBAS AS MÃOS",
+     "Artigo": "244 VII",
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 7102,
+     "Descrição": "CONDUZIR MOTOCICLETA, MOTONETA E CICLOMOTOR TRANSPORTANDO CARGA INCOMPATÍVEL",
+     "Artigo": "244 VIII",
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 7102,
+     "Descrição": "CONDUZIR CICLO TRANSPORTANDO CARGA INCOMPATÍVEL",
+     "Artigo": "244 VIII",
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 7102,
+     "Descrição": "CONDUZIR MOTOCICLETA, MOTONETA, CICLOMOTOR E CICLO TRANSPORTANDO CARGA INCOMPATÍVEL COM SUAS ESPECIFICAÇÕES.",
+     "Artigo": "244 VIII",
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 7102,
+     "Descrição": "CONDUZIR CICLO TRANSPORTANDO CARGA INCOMPATÍVEL",
+     "Artigo": "244 VIII",
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 7110,
+     "Descrição": "CONDUZIR CICLO TRANSPORTANDO PASSAGEIRO FORA DA GARUPA OU DO ASSENTO ESPECIAL A ELE DESTINADO.",
+     "Artigo": "244 d 1 a",
+     "Infrator": "Proprietario",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 7129,
+     "Descrição": "CONDUZIR CICLO E CICLOMOTOR EM VIAS DE TRÂNSITO RÁPIDO OU RODOVIAS, SALVO ONDE HOUVER ACOSTAMENTO OU FAIXAS DE ROLAMENTO PRÓPRIAS.",
+     "Artigo": "244 d 1 b",
+     "Infrator": "Proprietario",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 7129,
+     "Descrição": "CONDUZIR CICLO EM VIA DE TRÂNSITO RÁPIDO\/RODOVIA SEM ACOSTAMENTO\/FAIXA PRÓPRIA",
+     "Artigo": "244 d 1 b",
+     "Infrator": "Proprietario",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 7129,
+     "Descrição": "CONDUZIR CICLOMOTOR VIA DE TRÂNSITO RÁPIDO\/RODOVIA S\/ ACOSTAMENTO\/FAIXA PRÓPRIA",
+     "Artigo": "244 d 1 b",
+     "Infrator": "Proprietario",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 7137,
+     "Descrição": "CONDUZIR CICLO TRANSPORTANDO CRIANÇAS QUE NÃO TENHAM, NAS CIRCUNSTÂNCIAS, CONDIÇÕES DE CUIDAR DE SUA PRÓPRIA SEGURANÇA.",
+     "Artigo": "244 d 1 c",
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 7145,
+     "Descrição": "UTILIZAR A VIA PARA DEPÓSITO DE MERCADORIAS, MATERIAIS OU EQUIPAMENTOS, SEM AUTORIZAÇÃO DO ÓRGÃO OU ENTIDADE DE TRÂNSITO COM CIRCUNSCRIÇÃO SOBRE A VIA.",
+     "Artigo": 245,
+     "Infrator": "Jurídica",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 7153,
+     "Descrição": "DEIXAR DE SINALIZAR QUALQUER OBSTÁCULO À LIVRE CIRCULAÇÃO, À SEGURANÇA DE VEÍCULO E PEDESTRES, TANTO NO LEITO DA VIA TERRESTRE COMO NA CALÇADA, OU OBSTACULIZAR A VIA INDEVIDAMENTE, SEM AGRAVAMENTO DE PENALIDADE PELA AUTORIDADE DE TRÂNSITO.",
+     "Artigo": 246,
+     "Infrator": "Jurídica",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 7153,
+     "Descrição": "DEIXAR DE SINALIZAR OBSTÁCULO À CIRCULAÇÃO\/SEGURANÇA CALÇADA\/PISTAS\/AGRAVAMENTO",
+     "Artigo": 246,
+     "Infrator": "Jurídica",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 7153,
+     "Descrição": "OBSTACULIZAR A VIA INDEVIDAMENTE-S\/AGRAVAMENTO",
+     "Artigo": 246,
+     "Infrator": "Jurídica",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 7161,
+     "Descrição": "DEIXAR DE SINALIZAR QUALQUER OBSTÁCULO À LIVRE CIRCULAÇÃO, À SEGURANÇA DE VEÍCULO E PEDESTRES, TANTO NO LEITO DA VIA TERRESTRE COMO NA CALÇADA, OU OBSTACULIZAR A VIA INDEVIDAMENTE, COM AGRAVAMENTO DE PENALIDADE DE DUAS VEZES PELA AUTORIDADE DE TRÂNSITO.",
+     "Artigo": 246,
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 586.94
+    },
+    {
+     "Cod.": 7170,
+     "Descrição": "DEIXAR DE SINALIZAR QUALQUER OBSTÁCULO À LIVRE CIRCULAÇÃO, À SEGURANÇA DE VEÍCULO E PEDESTRES, TANTO NO LEITO DA VIA TERRESTRE COMO NA CALÇADA, OU OBSTACULIZAR A VIA INDEVIDAMENTE, COM AGRAVAMENTO DE PENALIDADE DE TRÊS VEZES PELA AUTORIDADE DE TRÂNSITO.",
+     "Artigo": 246,
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 880.41
+    },
+    {
+     "Cod.": 7170,
+     "Descrição": "DEIXAR DE SINALIZAR OBSTÁCULO CIRCULAÇÃO\/SEGURANÇA CALÇADA\/PISTAAGRAVAMENTO 3X",
+     "Artigo": 246,
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 880.41
+    },
+    {
+     "Cod.": 7170,
+     "Descrição": "OBSTACULIZAR A VIA INDEVIDAMENTE-AGRAVAMENTO 3X",
+     "Artigo": 246,
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 880.41
+    },
+    {
+     "Cod.": 7188,
+     "Descrição": "DEIXAR DE SINALIZAR OBSTÁCULO CIRCULAÇÃO\/SEGURANÇA CALÇADA\/PISTAAGRAVAMENTO 4X",
+     "Artigo": 246,
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 1173.88
+    },
+    {
+     "Cod.": 7188,
+     "Descrição": "OBSTACULIZAR A VIA INDEVIDAMENTE-AGRAVAMENTO 4X",
+     "Artigo": 246,
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 1173.88
+    },
+    {
+     "Cod.": 7188,
+     "Descrição": "DEIXAR DE SINALIZAR QUALQUER OBSTÁCULO À LIVRE CIRCULAÇÃO, À SEGURANÇA DE VEÍCULO E PEDESTRES, TANTO NO LEITO DA VIA TERRESTRE COMO NA CALÇADA, OU OBSTACULIZAR A VIA INDEVIDAMENTE, COM AGRAVAMENTO DE PENALIDADE DE QUATRO VEZES PELA AUTORIDADE DE TRÂNSITO.",
+     "Artigo": 246,
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 1173.88
+    },
+    {
+     "Cod.": 7196,
+     "Descrição": "DEIXAR DE SINALIZAR QUALQUER OBSTÁCULO À LIVRE CIRCULAÇÃO, À SEGURANÇA DE VEÍCULO E PEDESTRES, TANTO NO LEITO DA VIA TERRESTRE COMO NA CALÇADA, OU OBSTACULIZAR A VIA INDEVIDAMENTE, COM AGRAVAMENTO DE PENALIDADE DE CINCO VEZES PELA AUTORIDADE DE TRÂNSITO.",
+     "Artigo": 246,
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 1467.35
+    },
+    {
+     "Cod.": 7196,
+     "Descrição": "DEIXAR DE SINALIZAR OBSTÁCULO CIRCULAÇÃO\/SEGURANÇA CALÇADA\/PISTAAGRAVAMENTO 5X",
+     "Artigo": 246,
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 1467.35
+    },
+    {
+     "Cod.": 7196,
+     "Descrição": "OBSTACULIZAR A VIA INDEVIDAMENTE-AGRAVAMENTO 5X",
+     "Artigo": 246,
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 1467.35
+    },
+    {
+     "Cod.": 7200,
+     "Descrição": "DEIXAR DE CONDUZIR PELO BORDO PISTA EM FILA ÚNICA VEÍC TRAÇÃO\/PROPULSÃO HUMANA",
+     "Artigo": 247,
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 7200,
+     "Descrição": "DEIXAR DE CONDUZIR PELO BORDO DA PISTA EM FILA ÚNICA VEÍCULO DE TRAÇÃO ANIMAL",
+     "Artigo": 247,
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 7200,
+     "Descrição": "DEIXAR DE CONDUZIR PELO BORDO DA PISTA DE ROLAMENTO, EM FILA ÚNICA, OS VEÍCULOS DE TRAÇÃO OU PROPULSÃO HUMANA E OS DE TRAÇÃO ANIMAL, SEMPRE QUE NÃO HOUVER ACOSTAMENTO O FAIXA A ELES DESTINADOS.",
+     "Artigo": 247,
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 7218,
+     "Descrição": "TRANSPORTAR EM VEÍCULO DESTINADO AO TRANSPORTE DE PASSAGEIROS CARGA EXCEDENTE EM DESACORDO COM NORMAS ESTABELECIDAS PELO CONTRAN.",
+     "Artigo": 248,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 7226,
+     "Descrição": "DEIXAR DE MANTER ACESAS, À NOITE, AS LUZES DE POSIÇÃO, QUANDO O VEÍCULO ESTIVER PARADO, PARA FINS DE EMBARQUE OU DESEMBARQUE DE PASSAGEIROS E CARGA OU DESCARGA DA MERCADORIAS.",
+     "Artigo": 249,
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 7226,
+     "Descrição": "DEIXAR DE MANTER ACESAS À NOITE AS LUZES POSIÇÃO QDO O VEÍCULO ESTIVER PARADO",
+     "Artigo": 249,
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 7226,
+     "Descrição": "DEIXAR DE MANTER ACESAS À NOITE AS LUZES DE POSIÇÃO VEIC FAZENDO CARGA\/DESCARGA",
+     "Artigo": 249,
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 7234,
+     "Descrição": "DEIXAR DE MANTER ACESA A LUZ BAIXA, QUANDO O VEÍCULO ESTIVER EM MOVIMENTO, DURANTE À NOITE.",
+     "Artigo": "250 I A",
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 7242,
+     "Descrição": "EM MOVIMENTO DE DIA, DEIXAR DE MANTER ACESA LUZ BAIXA TUNEL COM ILUMINAÇÃO PÚBLICA",
+     "Artigo": "Art 250 I b",
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 7242,
+     "Descrição": "EM MOVIMENTO DIA, DEIXAR MANTER ACESA LUZ BAIXA NAS RODOVIAS",
+     "Artigo": "Art 250 I b",
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 7250,
+     "Descrição": "DEIXAR DE MANTER ACESA A LUZ BAIXA QUANDO O VEICULO ESTIVER EM MOVIMENTO DE DIA E DE NOITE TRATANDO-SE DE VEICULO DE TRANSPORTE COLETIVO DE PASSAGEIROS CIRCULANDO EM FAIXAS OU PISTAS A ELES DESTINADAS.",
+     "Artigo": "250 I c",
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 7269,
+     "Descrição": "DEIXAR DE MANTER ACESA A LUZ BAIXA QUANDO O VEICULO ESTIVER EM MOVIMENTO DE DIA E DE NOITE TRATANDO-SE DE CICLOMOTOR.",
+     "Artigo": "250 I d",
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 7277,
+     "Descrição": "DEIXAR DE MANTER ACESAS PELO MENOS AS LUZES DE POSIÇÃO SOB CHUVA FORTE , NEBLINA OU CERRAÇÃO QUANDO O VEICULO ESTIVER EM MOVIMENTO.",
+     "Artigo": "250 II",
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 7285,
+     "Descrição": "DEIXAR DE MANTER A PLACA TRASEIRA ILUMINADA, A NOITE QUANDO O VEICULO ESTIVER EM MOVIMENTO.",
+     "Artigo": "250 III",
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 7293,
+     "Descrição": "UTILIZAR AS LUZES DO VEICULO, PISCA-ALERTA, EXCETO EM IMOBILIZAÇÕES OU SITUAÇÕES DE EMERGÊNCIA.",
+     "Artigo": "251 I",
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 7307,
+     "Descrição": "UTILIZAR AS LUZES DO VEÍCULO BAIXA E ALTA DE FORMA INTERMITENTE, EXCETO NAS SEGUINTES SITUAÇÕES : A CURTOS INTERVALOS, QUANDO FOR CONVENIENTE ADVERTIR A OUTRO CONDUTOR QUE SE TEM O PROPÓSITO DE ULTRAPASSÁ-LO, EM IMOBILIZAÇÕES OU SITUAÇÃO DE EMERGÊNCIA, CO",
+     "Artigo": "251 II",
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 7315,
+     "Descrição": "DIRIGIR O VEÍCULO COM O BRAÇO DO LADO DE FORA.",
+     "Artigo": "252 I",
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 7323,
+     "Descrição": "DIRIGIR O VEÍCULO TRANSPORTANDO PESSOAS, ANIMAIS OU VOLUME À SUA ESQUERDA OU ENTRE OS BRAÇOS E PERNAS.",
+     "Artigo": "252 II",
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 7323,
+     "Descrição": "DIRIGIR O VEÍCULO TRANSPORT PESSOAS À SUA ESQUERDA OU ENTRE OS BRAÇOS E PERNAS",
+     "Artigo": "252 II",
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 7323,
+     "Descrição": "DIRIGIR O VEÍCULO TRANSPORT ANIMAIS À SUA ESQUERDA OU ENTRE OS BRAÇOS E PERNAS",
+     "Artigo": "252 II",
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 7323,
+     "Descrição": "DIRIGIR O VEÍCULO TRANSPORT VOLUME À SUA ESQUERDA OU ENTRE OS BRAÇOS E PERNAS",
+     "Artigo": "252 II",
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 7331,
+     "Descrição": "DIRIGIR O VEÍCULO COM INCAPACIDADE FÍSICA OU MENTAL TEMPORÁRIA QUE COMPROMETA A SEGURANÇA DO TRÂNSITO.",
+     "Artigo": "252 III",
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 7340,
+     "Descrição": "DIRIGIR O VEÍCULO USANDO CALÇADO QUE NÃO SE FIRME NOS PÉS OU QUE COMPROMETA A UTILIZAÇÃO DOS PEDAIS.",
+     "Artigo": "252 IV",
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 7358,
+     "Descrição": "DIRIGIR O VEÍCULO COM APENAS UMA DAS MÃOS, EXCETO QUANDO DEVA FAZER SINAIS REGULAMENTARES DE BRAÇO MUDAR A MARCHA A MARCHA DO VEÍCULO, OU ACIONAR EQUIPAMENTOS E ACESSÓRIOS DO VEÍCULO.",
+     "Artigo": "252 V",
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 7366,
+     "Descrição": "DIRIGIR VEICULO UTILIZANDO-SE DE FONES NOS OUVIDOS",
+     "Artigo": "252 VI",
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 7366,
+     "Descrição": "DIRIGIR VEICULO UTILIZANDO-SE DE TELEFONE CELULAR",
+     "Artigo": "252 VI",
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 7374,
+     "Descrição": "BLOQUEAR A VIA COM VEICULO",
+     "Artigo": 253,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 7374,
+     "Descrição": "BLOQUEAR A VIA COM VEICULO",
+     "Artigo": "253A",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 7374,
+     "Descrição": "USAR VEICULO PARA DELIBERADAMENTE, INTERROMPER A CIRCULAÇÃO VIA",
+     "Artigo": "253A",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 8804.1
+    },
+    {
+     "Cod.": 7374,
+     "Descrição": "USAR VEICULO PARA DELIBERADAMENTE, RESTRINGIR A CIRCULAÇÃO VIA",
+     "Artigo": "253A",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 8804.1
+    },
+    {
+     "Cod.": 7374,
+     "Descrição": "USAR VEICULO PARA DELIBERADAMENTE, PERTUBAR A CIRCULAÇÃO VIA",
+     "Artigo": "253A",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 8804.1
+    },
+    {
+     "Cod.": 7382,
+     "Descrição": "É PROIBIDO AO PEDESTRE PERMANECER OU ANDAR NAS PISTAS DE ROLAMENTO, EXCETO PARA CRUZÁ-LAS ONDE FOR PERMITIDO.",
+     "Artigo": "254 I",
+     "Agravante": "LEVE",
+     "Pontos": 3,
+     "Valor\n(R$)": 44.19
+    },
+    {
+     "Cod.": 7390,
+     "Descrição": "É PROIBIDO AO PEDESTRE CRUZAR PISTAS DE ROLAMENTO NOS VIADUTOS, PONTES, OU TÚNEIS, SALVO ONDE EXISTA PERMISSÃO.",
+     "Artigo": "254 II",
+     "Agravante": "LEVE",
+     "Pontos": 3,
+     "Valor\n(R$)": 44.19
+    },
+    {
+     "Cod.": 7390,
+     "Descrição": "É PROIBIDO AO PEDESTRE CRUZAR PISTA DE ROLAMENTO DE VIADUTO EXC ONDE PERMITIDO",
+     "Artigo": "254 II",
+     "Agravante": "LEVE",
+     "Pontos": 3,
+     "Valor\n(R$)": 44.19
+    },
+    {
+     "Cod.": 7390,
+     "Descrição": "É PROIBIDO AO PEDESTRE CRUZAR PISTA DE ROLAMENTO DE PONTE EXCETO ONDE PERMITIDO",
+     "Artigo": "254 II",
+     "Agravante": "LEVE",
+     "Pontos": 3,
+     "Valor\n(R$)": 44.19
+    },
+    {
+     "Cod.": 7390,
+     "Descrição": "É PROIBIDO AO PEDESTRE CRUZAR PISTA DE ROLAMENTO DE TÚNEIS EXCETO ONDE PERMITIDO",
+     "Artigo": "254 II",
+     "Agravante": "LEVE",
+     "Pontos": 3,
+     "Valor\n(R$)": 44.19
+    },
+    {
+     "Cod.": 7404,
+     "Descrição": "Ë PROIBIDO AO PEDESTRE ATRAVESSAR A VIA DENTRO DAS ÁREAS DE CRUZAMENTO, SALVO QUANDO HOUVER SINALIZAÇÃO PARA ESSE FIM.",
+     "Artigo": "254 III",
+     "Agravante": "LEVE",
+     "Pontos": 3,
+     "Valor\n(R$)": 44.19
+    },
+    {
+     "Cod.": 7412,
+     "Descrição": "É PROIBIDO AO PEDESTRE UTILIZAR-SE DA VIA EM AGRUPAMENTOS CAPAZES DE PERTURBAR O TRÂNSITO, OU PARA A PRÁTICA DE QUALQUER FOLGUEDO, ESPORTE, DESFILES E SIMILARES, SALVO EM CASOS ESPECIAIS E COM A DEVIDA LICENÇA DE AUTORIDADE COMPETENTE.",
+     "Artigo": "254 IV",
+     "Agravante": "LEVE",
+     "Pontos": 3,
+     "Valor\n(R$)": 44.19
+    },
+    {
+     "Cod.": 7420,
+     "Descrição": "É PROIBIDO AO PEDESTRE ANDAR FORA DA FAIXA PRÓPRIA, PASSARELA, PASSAGEM AÉREA OU SUBTERRÂNEA.",
+     "Artigo": "254 V",
+     "Agravante": "LEVE",
+     "Pontos": 3,
+     "Valor\n(R$)": 44.19
+    },
+    {
+     "Cod.": 7420,
+     "Descrição": "É PROIBIDO AO PEDESTRE ANDAR FORA DA FAIXA PRÓPRIA",
+     "Artigo": "254 V",
+     "Agravante": "LEVE",
+     "Pontos": 3,
+     "Valor\n(R$)": 44.19
+    },
+    {
+     "Cod.": 7420,
+     "Descrição": "É PROIBIDO AO PEDESTRE ANDAR FORA DA PASSARELA",
+     "Artigo": "254 V",
+     "Agravante": "LEVE",
+     "Pontos": 3,
+     "Valor\n(R$)": 44.19
+    },
+    {
+     "Cod.": 7420,
+     "Descrição": "É PROIBIDO AO PEDESTRE ANDAR FORA DA PASSAGEM AÉREA",
+     "Artigo": "254 V",
+     "Agravante": "LEVE",
+     "Pontos": 3,
+     "Valor\n(R$)": 44.19
+    },
+    {
+     "Cod.": 7420,
+     "Descrição": "É PROIBIDO AO PEDESTRE ANDAR FORA DA PASSAGEM SUBTERRÂNEA",
+     "Artigo": "254 V",
+     "Agravante": "LEVE",
+     "Pontos": 3,
+     "Valor\n(R$)": 44.19
+    },
+    {
+     "Cod.": 7439,
+     "Descrição": "É PROIBIDO AO PEDESTRE DESOBEDECER A SINALIZAÇÃO DE TRÂNSITO ESPECÍFICA.",
+     "Artigo": "254 VI",
+     "Agravante": "LEVE",
+     "Pontos": 3,
+     "Valor\n(R$)": 44.19
+    },
+    {
+     "Cod.": 7447,
+     "Descrição": "CONDUZIR BICICLETA EM PASSEIOS ONDE NÃO SEJA PERMITIDO A CIRCULAÇÃO DESTA, OU DE FORMA AGRESSIVA.",
+     "Artigo": 255,
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 7447,
+     "Descrição": "CONDUZIR BICICLETA EM PASSEIOS ONDE NÃO SEJA PERMITIDA A CIRCULAÇÃO DESTA",
+     "Artigo": 255,
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 7447,
+     "Descrição": "CONDUZIR BICICLETA DE FORMA AGRESSIVA",
+     "Artigo": 255,
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 7455,
+     "Descrição": "TRANSITAR\/VELOCIDADE SUPERIOR A MAXIMA EM ATE 20%",
+     "Artigo": "218* I",
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 7463,
+     "Descrição": "TRANSITAR\/VELOCIDADE SUPERIOR A MAXIMA ENTRE 20% E 50%",
+     "Artigo": "218* II",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 7471,
+     "Descrição": "TRANSITAR\/VELOCIDADE SUPERIOR A MAXIMA ACIMA DE 50%",
+     "Artigo": "218* III",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 880.41
+    },
+    {
+     "Cod.": 7552,
+     "Descrição": "MOTOCICLETAMOTONETA EFETUANDO TRANSPORTE REMUNERADO DE MERCADORIA EM DESACORDO C O ART 139 A CTB",
+     "Artigo": "art 244 *IX",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 7552,
+     "Descrição": "CONDUZIR MOTOCICLETAMOTONETA EFETUANDO TRANSPORTE REMUNERADO EM DESACORDO C AS NORMAS EM ATIV PROFIC MOTOTAXISTAS",
+     "Artigo": "244 *IX",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 7560,
+     "Descrição": "CONDUZIR VEICULO DE TRANSPORTE PASSAGEIRO OU CARGA EM DESACORDO COM AS CONDIÇÕES DO ART 67-A CTB",
+     "Artigo": 230,
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 7579,
+     "Descrição": "RECUSAR SUBMETER TESTE, EXAME CLINICO, PERICIA OU PROC. Q PERMITE CERTIFICAR INFLUÊNCIA ÁLCOOL\/ SUBSTÂNCIA PSIC FORA ART. 277",
+     "Artigo": "Art 165-A",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 2934.7
+    },
+    {
+     "Cod.": 7587,
+     "Descrição": "TRANSITAR NA FAIXA OU VIA DE TRÂNSITO EXCLUSIVO, REGULAMENTADA COM CIRCULAÇÃO DESTINADA AOS VEÍCULOS DE TRANSPORTE PÚBLICO COLETIVO DE PASSAGEIROS,SALVO CASOS DE FORÇA MAIOR E COM AUTORIZAÇÃO DO PODER PÚBLICO COMPETENTE.",
+     "Artigo": "Art. 184 Inciso III",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 7595,
+     "Descrição": "DIRIGIR VEÍCULO REALIZANDO COBRANÇA DE TARIFA COM VEÍCULO EM MOVIMENTO",
+     "Artigo": "Art.252 Inciso VII",
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 7609,
+     "Descrição": "ORGANIZAR A CONDUTA PREVISTA NO CAPUT DO ART. 253-A",
+     "Artigo": "Art 253-A § 1º",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 17608.2
+    },
+    {
+     "Cod.": 7617,
+     "Descrição": "USAR QQ VEICULO PARA DELIB, INTERROMPER CIRCULAÇÃO NA VIA SEM AUTORIZAÇÃO DO ORGÃO",
+     "Artigo": "Art 253-A",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 5869.4
+    },
+    {
+     "Cod.": 7617,
+     "Descrição": "USAR QQ VEICULO PARA DELIB, RESTRINGIR CIRCULAÇÃO NA VIA SEM AUTORIZAÇÃO DO ORGÃO",
+     "Artigo": "Art 253-A",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 5869.4
+    },
+    {
+     "Cod.": 7617,
+     "Descrição": "USAR QQ VEICULO DELIB, PERTUBAR CIRCULAÇÃO NA VIA SEM AUTORIZAÇÃO DO ORGÃO",
+     "Artigo": "Art 253-A",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 5869.4
+    },
+    {
+     "Cod.": 7625,
+     "Descrição": "ESTACIONAR NAS VARGAS RESERVADAS A .PESSOAS COM DEFICIENCIA S\/ CREDENCIAAL",
+     "Artigo": "Art 181 XX",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 7625,
+     "Descrição": "ESTACIONAR NAS VARGAS RESERV.PESSOA C\/ IDOSOS S\/ CREDENCIAL",
+     "Artigo": "Art 181 XX",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 7625,
+     "Descrição": "ESTACIONAR NAS VARGAS RESERVADAS A .PESSOAS COM DEFICIENCIA S\/ CREDENCIAAL",
+     "Artigo": "Art 181 XX",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 7633,
+     "Descrição": "DIRIGIR VEICULO SEGURANDO \/ MANUSEANDO O TELEFONE CELULAR",
+     "Artigo": "Art. Unico",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 7633,
+     "Descrição": "DIRIGIR VEICULO SEGURANDO TELEFONE CELULAR",
+     "Artigo": "Art 252, § Unico",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 7633,
+     "Descrição": "DIRIGIR VEICULO MANUSEANDO O TELEFONE CELULAR",
+     "Artigo": "Art 252, § Unico",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 7641,
+     "Descrição": "COND VEÍC EXIG HAB C, D OU E SEM REALIZAR EX TOXIC PREV NO § 2º DO ART 148-A, APÓS 30 DIAS DO VENC",
+     "Artigo": "art 148-A",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 7670,
+     "Descrição": "PARAR O VEÍCULO SOBRE CICLOVIA OU CICLOFAIXA",
+     "Artigo": "ART. 182, XI",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 195.23
+    },
+    {
+     "Cod.": 7671,
+     "Descrição": "USAR QQ VEICICULO PARA DELIBERADAMENTE, INTERROMPER CIRCURLAÇÃO NA VIA SEM AUTORIZAÇÃO DO ORGÃO",
+     "Artigo": "art 253-A",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 3830.76
+    },
+    {
+     "Cod.": 7671,
+     "Descrição": "USAR QQ VEICICULO DELIBERADAMENTE PARA RESTRINGIR CIRCIRCULAÇÃO NA VIA SEM AUTORIZAÇÃO ORGÃO",
+     "Artigo": "art 253-A",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 3830.76
+    },
+    {
+     "Cod.": 7671,
+     "Descrição": "USAR QQ VEICULO DELIBERADAMENTE PARA PERTUBAR CIRCULAÇÃO NA VIA SEM AUTORIZAÇÃO DO ORGÃO",
+     "Artigo": "art 253-A",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 3830.76
+    },
+    {
+     "Cod.": 7684,
+     "Descrição": "CONDUZIR MOTOCICLETA, MOTONETA E CICLOMOTOR TRANSPORTANDO PASSAGEIRO SEM O CAPACETE DE SEGURANÇA, NA FORMA ESTABELECIDA NO INCISO ANTERIOR, OU FORA DO ASSENTO SUPLEMENTAR COLOCADO ATRÁS DO CONDUTOR OU EM CARRO LATERAL:",
+     "Artigo": "Art. 244, X",
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 7684,
+     "Descrição": "CONDUZIR MOTOCICLETA, MOTONETA E CICLOMOTOR TRANSPORTANDO PASSAGEIRO SEM O CAPACETE DE SEGURANÇA, NA FORMA ESTABELECIDA NO INCISO ANTERIOR, OU FORA DO ASSENTO SUPLEMENTAR COLOCADO ATRÁS DO CONDUTOR OU EM CARRO LATERAL:",
+     "Artigo": "Art. 244, X",
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 130.16
+    },
+    {
+     "Cod.": 7714,
+     "Descrição": "CONDUZIR MOTOC\/ MOTON\/CICLOM TRANSP PASS C\/CAPACETE DE SEGURANCA S\/VISEIRA\/OCULOS DE PROTECAO",
+     "Artigo": "ART. 244, XI",
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 85.12
+    },
+    {
+     "Cod.": 7714,
+     "Descrição": "CONDUZIR MOTOC\/ MOTON\/CICLOM TRANSP PASS C\/ CAP SEG C\/ VISEIRA\/OCULOS PROT EM DES C\/ REGUL CONTRAN",
+     "Artigo": "ART. 244, XI",
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 85.12
+    },
+    {
+     "Cod.": 7722,
+     "Descrição": "EM MOV. DEIXAR DE MANTER ACESO LUZ BAIXA DE DIA, RODOVIA PISTA SIMPLES SIT FORA PERCURSO URBANO, VEICULO",
+     "Artigo": "art. 250 I e",
+     "Infrator": "Condutor",
+     "Agravante": "MÉDIA",
+     "Pontos": 4,
+     "Valor\n(R$)": 85.12
+    },
+    {
+     "Cod.": 7730,
+     "Descrição": "EVADIR-SE DA COBRANCA PELO USO DE RODOVIAS E VIAS URBANAS PARA NAO EFETUAR SEU PAGAMENTO",
+     "Artigo": "ART 209 A",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 127.69
+    },
+    {
+     "Cod.": 7730,
+     "Descrição": "DEIXAR DE EFETUAR PAGAMENTO, PELO USO DE RODOVIAS E VIAS URBANAS, NA FORMA ESTABELECIDA",
+     "Artigo": "ART 209 A",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 127.69
+    },
+    {
+     "Cod.": 7749,
+     "Descrição": "DIRIGIR VEICULO SEM POSSUIR CURSOS ESPECIALIZADOS OBRIGATORIOS",
+     "Artigo": "ART. 162 INCISO VII",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 191.53
+    },
+    {
+     "Cod.": 7749,
+     "Descrição": "DIRIGIR VEICULO SEM POSSUIR CURSOS ESPECIFICOS OBRIGATORIOS",
+     "Artigo": "ART. 162 INCISO VII",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 7757,
+     "Descrição": "EM MOVIMENTO, DEIXAR VEICULO DE TRANSPORTE PUB. COLETIVO PASSAGEIROS DE MANTER A PORTA FECHADA",
+     "Artigo": "ART. 250 INCISO IV",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 127.69
+    },
+    {
+     "Cod.": 7757,
+     "Descrição": "EM MOVIMENTO, DEIXAR O VEICULO DE ESCOLARES DE MANTER A PORTA FECHADA",
+     "Artigo": "ART. 250 INCISO IV",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 127.69
+    },
+    {
+     "Cod.": 7765,
+     "Descrição": "FUGIR O CONDUTOR A ACAO POLICIAL",
+     "Artigo": "art 278, art 210",
+     "Infrator": "Condutor",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    },
+    {
+     "Cod.": 7773,
+     "Descrição": "ENTREGAR VEICULO A PESSOA SEM POSSUIR CURSOS ESPECIALIZADOS OBRIGATÓRIOS",
+     "Artigo": "ART 163 C\/C 162, VII",
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 127.69
+    },
+    {
+     "Cod.": 7773,
+     "Descrição": "ENTREGAR VEÍCULO A PESSOA SEM POSSUIR CURSOS ESPECÍFICOS OBRIGATÓRIOS.",
+     "Artigo": "ART 163 C\/C 162, VII",
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVE",
+     "Pontos": 5,
+     "Valor\n(R$)": 127.69
+    },
+    {
+     "Cod.": 7781,
+     "Descrição": "PERMITIR POSSE E CONDUCAO DO VEICULO POR PESSOA SEM POSSUIR CURSOS ESPECIALIZADOS OBRIGATORIOS",
+     "Artigo": "ART 164 C\/C 162, VII",
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 191.53
+    },
+    {
+     "Cod.": 7781,
+     "Descrição": "PERMITIR POSSE E CONDUCAO DO VEICULO POR PESSOA SEM POSSUIR CURSOS ESPECIFICOS OBRIGATORIOS",
+     "Artigo": "ART 164 C\/C 162, VII",
+     "Infrator": "Proprietario",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 191.53
+    },
+    {
+     "Cod.": 9130,
+     "Descrição": "TRANSPORTAR PRODUTO PERIGOSO A GRANEL QUE NÃO CONSTE DO CERTIFICADO DE CAPACITAÇÃO",
+     "Artigo": "DEC96044\/88,45,III,C",
+     "Infrator": "Jurídica",
+     "Agravante": "GRAVISSIMA",
+     "Pontos": 7,
+     "Valor\n(R$)": 293.47
+    }
+   ]

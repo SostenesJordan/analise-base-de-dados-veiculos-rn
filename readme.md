@@ -1,0 +1,1 @@
+# Consiste na análise de uma base de dados de veículos do estado do Rio Grande do Norte obtida por mim com um algoritmo de web scraping, utilizando técnicas de análise de dados e inteligência artificial
