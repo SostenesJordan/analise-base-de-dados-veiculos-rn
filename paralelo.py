@@ -51,25 +51,28 @@ if __name__ == '__main__':
     resultados_propietarios = []
 
     while registros_recuperados < total_registros:
-        registros_01 = list(collection_db_01.find().skip(registros_recuperados).limit(batch_size))
-        registros_02 = list(collection_db_02.find().skip(registros_recuperados).limit(batch_size))
+        try:
+            registros_01 = list(collection_db_01.find().skip(registros_recuperados).limit(batch_size))
+            registros_02 = list(collection_db_02.find().skip(registros_recuperados).limit(batch_size))
 
-        registros = registros_01 + registros_02
+            registros = registros_01 + registros_02
 
-        # Dividir registros em lotes menores para cada processo
-        registros_divididos = [registros[i:i+batch_size] for i in range(0, len(registros), batch_size)]
+            # Dividir registros em lotes menores para cada processo
+            registros_divididos = [registros[i:i+batch_size] for i in range(0, len(registros), batch_size)]
 
-        # Processar lotes em paralelo
-        resultados_lote = pool.map(processar_lote, registros_divididos)
+            # Processar lotes em paralelo
+            resultados_lote = pool.map(processar_lote, registros_divididos)
 
-        for resultados_veiculos, resultados_propietarios in resultados_lote:
-            resultados_veiculos.extend(resultados_veiculos)
-            resultados_propietarios.extend(resultados_propietarios)
+            for resultados_veiculos, resultados_propietarios in resultados_lote:
+                resultados_veiculos.extend(resultados_veiculos)
+                resultados_propietarios.extend(resultados_propietarios)
 
-        registros_recuperados += len(registros)
+            registros_recuperados += len(registros)
 
 
-        print(f"TOTAL:{total_registros} | RODOU:{registros_recuperados}")
+            print(f"TOTAL:{total_registros} | RODOU:{registros_recuperados}")
+        except:
+            break
 
     pool.close()
     pool.join()
